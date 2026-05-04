@@ -7,10 +7,6 @@
 sources:
 # NPR
   - href: https://feeds.npr.org/1002/rss.xml
-# AP
-  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/world-news.xml
-  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/technology.xml
-  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/business.xml
 # The Guardian
   - href: https://www.theguardian.com/world/rss
   - href: https://www.theguardian.com/us-news/us-politics/rss
@@ -30,6 +26,10 @@ sources:
   - href: https://www.economist.com/united-states/rss.xml
 # Al Jazeera
   - href: https://www.aljazeera.com/xml/rss/all.xml
+# AP
+  # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/world-news.xml
+  # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/technology.xml
+  # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/business.xml
   
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
 #  - href: https://css-tricks.com/feed/
