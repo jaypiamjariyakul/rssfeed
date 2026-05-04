@@ -128,7 +128,7 @@
           "description": "MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nTwo marine rescue volunteers who went to help others are among those who have died in a tragic yacht accident on Monday night.\nAs we reported below, three people died as volunteers went to the aid of a yacht at the Ballina bar in northern New South Wales.\nSentencing absolutely needs to reflect community expectations – but the act hasn’t been reviewed with that aim in mind since 1991. It’s no wonder many Victorians think sentencing doesn’t reflect our modern challenges. We’ll rewrite the act following the advice from experts, police and the public because, under Labor, community safety comes first.\n Continue reading...",
           "link": "https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb",
           "publishedOn": "2026-05-04T22:54:19.000Z",
-          "wordCount": 9119,
+          "wordCount": 9111,
           "title": "Australia news live: four Australians among passengers on luxury cruise ship hit by deadly suspected hantavirus outbreak",
           "imageUrl": "https://i.guim.co.uk/img/media/7db558c0ec210d92bdfdd2b9006b52691bee3d52/656_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=40f5348b99f1b6f0d59267cf35510c41"
         },
@@ -1546,7 +1546,7 @@
           "description": "King Charles is said to be ‘delighted with the news’",
           "link": "https://www.independent.co.uk/news/uk/home-news/princess-eugenie-pregnant-baby-husband-jack-brooksbank-royal-b2969984.html",
           "publishedOn": "2026-05-04T10:29:58.000Z",
-          "wordCount": 4043,
+          "wordCount": 4041,
           "title": "Princess Eugenie expecting third child this summer, Buckingham Palace announces",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/10/01JY9BGMAQT1AZT0D36ZQ7RP7V.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -1883,7 +1883,7 @@
           "description": "US president escalates threats during his ‘Project Freedom’ commercial vessel escort mission in Strait of Hormuz in latest ceasefire test",
           "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-strait-of-hormuz-threats-b2970212.html",
           "publishedOn": "2026-05-04T17:27:07.000Z",
-          "wordCount": 4491,
+          "wordCount": 3576,
           "title": "Trump again threatens entire nation of Iran saying country will be ‘blown off the face of the earth’",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/17/30/BESTPIX-President-Trump-Returns-To-The-White-House-From-Florida-c7ueqa9k.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
         },
@@ -1903,7 +1903,7 @@
           "description": "The US president vowed to free commercial ships stranded in the waterway as part of so-called ‘Project Freedom’",
           "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-blockade-oil-b2969916.html",
           "publishedOn": "2026-05-04T17:16:35.000Z",
-          "wordCount": 8436,
+          "wordCount": 6701,
           "title": "Iran-US war latest: US claims it has sunk six Iranian small boats as tensions rise in Strait of Hormuz",
           "imageUrl": "https://static.independent.co.uk/2026/04/24/17/1183449974.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -2053,7 +2053,7 @@
           "description": "ICE agents were seen dragging a detained man from the Wyckoff Heights Medical Center in Brooklyn, surrounded by demonstrators",
           "link": "https://www.independent.co.uk/news/world/americas/ice-new-york-brooklyn-chidozie-wilson-okeke-b2970002.html",
           "publishedOn": "2026-05-04T12:28:25.000Z",
-          "wordCount": 3990,
+          "wordCount": 3991,
           "title": "Eight arrested after anti-ICE protesters clash with cops outside New York hospital",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/10/45/Screenshot-2026-05-04-at-11-45-59.png?trim=0,8,0,8&width=1200&height=800&crop=1200:800"
         },
@@ -2153,7 +2153,7 @@
           "description": "It is unclear what led Rudy Giuliani to be taken to the hospital",
           "link": "https://www.independent.co.uk/news/world/americas/us-politics/rudy-giuliani-nyc-hospital-trump-b2969896.html",
           "publishedOn": "2026-05-04T06:31:31.000Z",
-          "wordCount": 4372,
+          "wordCount": 3667,
           "title": "Former NYC Mayor Rudy Giuliani, 81, hospitalized in critical condition",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/00/2208317577.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -2204,6 +2204,16 @@
       "feedUrl": "https://www.independent.co.uk/news/business/rss",
       "siteUrl": "https://www.independent.co.uk/news/business/rss",
       "articles": [
+        {
+          "id": "b2970058",
+          "author": "Henry Saker-Clark",
+          "description": "The industry is facing a deepening crisis",
+          "link": "https://www.independent.co.uk/news/business/british-pubs-closing-tax-hospitality-b2970058.html",
+          "publishedOn": "2026-05-04T23:01:00.000Z",
+          "wordCount": 3664,
+          "title": "Two British pubs closing every day as tax and cost pressures devastate hospitality sector",
+          "imageUrl": "https://static.independent.co.uk/2026/02/24/17/32/beer-bartender-zero-hours-worker.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
+        },
         {
           "id": "b2969779",
           "author": "Henry Henry Saker-Clark",
