@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T22:46:44.448Z</id>
+    <id>urn:2026-05-04T22:52:00.488Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T22:46:44.448Z</updated>
+    <updated>2026-05-04T22:52:00.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -119,6 +119,16 @@ Norway is the largest farmed salmon producer in the world, and nutrients in fish
  Continue reading...]]></summary>
         <author>
             <name>Ajit Niranjan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotels have a big World Cup problem: Bookings are running far below projections]]></title>
+        <id>https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors</id>
+        <link href="https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors"/>
+        <updated>2026-05-04T21:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 80% of hotels surveyed by a body representing the industry reported bookings were running below projections — a worrisome sign with only weeks to go before the World Cup.]]></summary>
+        <author>
+            <name>Rafael Nam</name>
         </author>
     </entry>
     <entry>
@@ -980,12 +990,12 @@ The plight of the MV Hondius, which set off in March from southern Argentina car
         <id>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</id>
         <link href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"/>
         <updated>2026-05-04T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Cape Verde blocks MV Hondius from docking in order ‘to protect public health’ after deaths of three passengers
+        <summary type="html"><![CDATA[WHO confirms seven cases of virus on MV Hondius after deaths of three passengers and four others left ill 
 
 What is hantavirus, the infection thought to have killed three on cruise ship?
 
-Medics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after a suspected outbreak of a rare respiratory virus killed three people, left three others seriously ill and forced nearly 150 people from across the world to isolate onboard.
-The plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization said it was investigating a suspected outbreak of hantavirus, a disease primarily found in rodents.
+Medics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after an outbreak of a rare respiratory virus killed three people, left four others ill and forced nearly 150 people from across the world to isolate onboard.
+The plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.
  Continue reading...]]></summary>
         <author>
             <name>Ashifa Kassam</name>
@@ -1730,16 +1740,6 @@ GameStop, which has quietly accumulated a 5% stake in eBay, said it was willing 
         <summary type="html"><![CDATA[A Czech court has convicted a former associate of Prime Minister Andrej Babiš of fraud, giving her a three-year suspended sentence and a fine]]></summary>
         <author>
             <name>Via AP news wire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's how medication abortion works with just one drug]]></title>
-        <id>https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol</id>
-        <link href="https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol"/>
-        <updated>2026-05-04T11:38:48.000Z</updated>
-        <summary type="html"><![CDATA[The Supreme Court on Monday said that telemedicine access to the abortion drug mifepristone can stay — for at least a week. But as mifepristone faces court challenges, another drug that remains available is safe and effective at ending early pregnancy.]]></summary>
-        <author>
-            <name>Mara Gordon</name>
         </author>
     </entry>
     <entry>

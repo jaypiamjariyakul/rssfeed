@@ -6,6 +6,17 @@
       "siteUrl": "https://www.npr.org/templates/story/story.php?storyId=1002",
       "articles": [
         {
+          "id": "https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors",
+          "author": "Rafael Nam",
+          "description": "Nearly 80% of hotels surveyed by a body representing the industry reported bookings were running below projections — a worrisome sign with only weeks to go before the World Cup.",
+          "link": "https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors",
+          "publishedOn": "2026-05-04T21:56:29.000Z",
+          "wordCount": null,
+          "title": "Hotels have a big World Cup problem: Bookings are running far below projections",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.npr.org/2026/05/04/nx-s1-5810195/why-u-s-troops-are-stationed-in-germany-and-what-happens-if-some-leave",
           "author": "Fiona Geiran",
           "description": "NPR's Mary Louise Kelly talks with Jeff Rathke, president of the American-German Institute, about U.S. troops stationed in Germany, and what happens if President Trump moves some of them elsewhere.",
@@ -103,17 +114,6 @@
           "title": "Not sure what to get Mom for Mother's Day? Get ideas from our listeners",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
-          "author": "Mara Gordon",
-          "description": "The Supreme Court on Monday said that telemedicine access to the abortion drug mifepristone can stay — for at least a week. But as mifepristone faces court challenges, another drug that remains available is safe and effective at ending early pregnancy.",
-          "link": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
-          "publishedOn": "2026-05-04T11:38:48.000Z",
-          "wordCount": null,
-          "title": "Here's how medication abortion works with just one drug",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -148,7 +148,7 @@
           "description": "MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nTwo marine rescue volunteers who went to assist others are among those who have died in a tragic yacht accident on Monday night, AAP reports.\nAs we reported below, three people died as volunteers went to the aid of a yacht at the Ballina Bar in northern NSW on Monday night.\nOur focus right now is supporting the families of those affected and our volunteers.\nSentencing absolutely needs to reflect community expectations – but the act hasn’t been reviewed with that aim in mind since 1991. It’s no wonder many Victorians think sentencing doesn’t reflect our modern challenges. We’ll rewrite the act following the advice from experts, police and the public because, under Labor, community safety comes first.\n Continue reading...",
           "link": "https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb",
           "publishedOn": "2026-05-04T22:27:28.000Z",
-          "wordCount": 8247,
+          "wordCount": 8158,
           "title": "Australia news live: four Australians among passengers on luxury cruise ship hit by deadly suspected hantavirus outbreak",
           "imageUrl": "https://i.guim.co.uk/img/media/7db558c0ec210d92bdfdd2b9006b52691bee3d52/656_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=40f5348b99f1b6f0d59267cf35510c41"
         },
@@ -158,7 +158,7 @@
           "description": "US president’s comment echoes threat that ‘whole civilisation will die’ as tension over strait of Hormuz ramps up again\n\nDonald Trump sends warships to break Iran’s strait of Hormuz blockade\n\nWe have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran’s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at 07.39 for more details). Abdollahi also said:\nWe will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security.\n Continue reading...",
           "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
           "publishedOn": "2026-05-04T22:27:08.000Z",
-          "wordCount": 7909,
+          "wordCount": 8315,
           "title": "Middle East crisis live: Trump warns Iranian forces they will be ‘blown off the face of the Earth’ if they target US ships",
           "imageUrl": "https://i.guim.co.uk/img/media/fe7b69a432502babbe4f6f95424a191cf3f7e328/1040_0_4467_3575/master/4467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f511de82c3732e61e7aac1c5d417d23b"
         },
@@ -789,10 +789,10 @@
         {
           "id": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
           "author": "Ashifa Kassam",
-          "description": "Cape Verde blocks MV Hondius from docking in order ‘to protect public health’ after deaths of three passengers\n\nWhat is hantavirus, the infection thought to have killed three on cruise ship?\n\nMedics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after a suspected outbreak of a rare respiratory virus killed three people, left three others seriously ill and forced nearly 150 people from across the world to isolate onboard.\nThe plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization said it was investigating a suspected outbreak of hantavirus, a disease primarily found in rodents.\n Continue reading...",
+          "description": "WHO confirms seven cases of virus on MV Hondius after deaths of three passengers and four others left ill \n\nWhat is hantavirus, the infection thought to have killed three on cruise ship?\n\nMedics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after an outbreak of a rare respiratory virus killed three people, left four others ill and forced nearly 150 people from across the world to isolate onboard.\nThe plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.\n Continue reading...",
           "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
           "publishedOn": "2026-05-04T17:16:09.000Z",
-          "wordCount": 4939,
+          "wordCount": 5004,
           "title": "Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak",
           "imageUrl": "https://i.guim.co.uk/img/media/6adde1cdf2cb63354dd69c0a998ec1af299f5a7a/434_0_2998_2398/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=492ccf4012f48b04be0392f968a1babd"
         },
@@ -1753,7 +1753,7 @@
           "description": "For 12 years, Sally Lane and John Letts have been fighting to bring their son Jack – held in Isis prisons in Syria and Iraq – back home to Oxford. They tell the story of how their lives fell apart to chief international correspondent Bel Trew",
           "link": "https://www.independent.co.uk/news/world/middle-east/isis-syria-iraq-jack-letts-john-letts-b2959401.html",
           "publishedOn": "2026-05-04T19:58:05.000Z",
-          "wordCount": 6488,
+          "wordCount": 6468,
           "title": "The nightmare of trying to save our son Jack from Isis",
           "imageUrl": "https://static.independent.co.uk/2026/01/21/18/51/SEI53543184.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -2153,7 +2153,7 @@
           "description": "A 69-year-old British national remains in intensive care in South Africa",
           "link": "https://www.independent.co.uk/travel/news-and-advice/cruise-ship-deaths-virus-atlantic-ocean-mv-hondius-b2969838.html",
           "publishedOn": "2026-05-04T07:03:08.000Z",
-          "wordCount": 3838,
+          "wordCount": 3926,
           "title": "Three dead and British tourist in intensive care after hantavirus outbreak on polar expedition ship",
           "imageUrl": "https://static.independent.co.uk/2026/05/03/21/2273814178.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -2163,7 +2163,7 @@
           "description": "It is unclear what led Rudy Giuliani to be taken to the hospital",
           "link": "https://www.independent.co.uk/news/world/americas/us-politics/rudy-giuliani-nyc-hospital-trump-b2969896.html",
           "publishedOn": "2026-05-04T06:31:31.000Z",
-          "wordCount": 3667,
+          "wordCount": 4372,
           "title": "Former NYC Mayor Rudy Giuliani, 81, hospitalized in critical condition",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/00/2208317577.jpg?width=1200&height=800&crop=1200:800"
         },
@@ -2247,7 +2247,7 @@
           "description": "Research points to alarming species decline, habitat degradation, and deeper ecological stress in India’s Western Ghats",
           "link": "https://www.independent.co.uk/news/science/dragonfly-species-missing-insect-apocalypse-b2969955.html",
           "publishedOn": "2026-05-04T08:28:58.000Z",
-          "wordCount": 3801,
+          "wordCount": 3828,
           "title": "The ‘missing’ insect that is raising alarm bells about one of world’s best biodiversity hotspots",
           "imageUrl": "https://static.independent.co.uk/2026/05/04/7/11/Photograph-shows-a-dragonfly.jpeg?width=1200&height=800&crop=1200:800"
         },
