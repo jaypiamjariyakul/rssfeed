@@ -5,7 +5,33 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+# NPR
+  - href: https://feeds.npr.org/1002/rss.xml
+# AP
+  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/world-news.xml
+  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/technology.xml
+  - href: http://associated-press.s3-website-us-east-1.amazonaws.com/business.xml
+# The Guardian
+  - href: https://www.theguardian.com/world/rss
+  - href: https://www.theguardian.com/us-news/us-politics/rss
+  - href: https://www.theguardian.com/uk-news/rss
+  - href: https://www.theguardian.com/uk/technology/rss
+# The Independent
+  - href: https://www.independent.co.uk/news/uk/rss
+  - href: https://www.independent.co.uk/news/world/rss
+  - href: https://www.independent.co.uk/news/business/rss
+  - href: https://www.independent.co.uk/news/science/rss
+# Economist
+  - href: https://www.economist.com/finance-and-economics/rss.xml
+  - href: https://www.economist.com/asia/rss.xml
+  - href: https://www.economist.com/europe/rss.xml
+  - href: https://www.economist.com/middle-east-and-africa/rss.xml
+  - href: https://www.economist.com/britain/rss.xml
+  - href: https://www.economist.com/united-states/rss.xml
+# Al Jazeera
+  - href: https://www.aljazeera.com/xml/rss/all.xml
+  
+#  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+#  - href: https://css-tricks.com/feed/
+#  - href: https://www.smashingmagazine.com/feed/
+#  - href: https://www.freecodecamp.org/news/rss/
