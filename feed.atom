@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T23:06:10.386Z</id>
+    <id>urn:2026-05-04T23:13:54.584Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T23:06:10.386Z</updated>
+    <updated>2026-05-04T23:13:54.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[News live: four Australians on cruise ship amid suspected hantavirus outbreak; nation’s highest diphtheria levels in decades]]></title>
+        <id>https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb</id>
+        <link href="https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb"/>
+        <updated>2026-05-04T23:02:46.000Z</updated>
+        <summary type="html"><![CDATA[MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today’s news live
+
+Get our breaking news email, free app or daily news podcast
+
+Two marine rescue volunteers who went to help others are among those who have died in a tragic yacht accident on Monday night.
+As we reported below, three people died as volunteers went to the aid of a yacht at the Ballina bar in northern New South Wales.
+Sentencing absolutely needs to reflect community expectations – but the act hasn’t been reviewed with that aim in mind since 1991. It’s no wonder many Victorians think sentencing doesn’t reflect our modern challenges. We’ll rewrite the act following the advice from experts, police and the public because, under Labor, community safety comes first.
+ Continue reading...]]></summary>
+        <author>
+            <name>Stephanie Convery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern slavery at record levels in UK and expected to worsen, report warns]]></title>
+        <id>https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report</id>
+        <link href="https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report"/>
+        <updated>2026-05-04T23:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Government’s anti-slavery commissioner says traffickers are exploiting a growing pipeline of vulnerability
+Slavery in the UK is at record levels and is expected to worsen over the next decade, the government’s independent anti-slavery commissioner has warned.
+According to the number of referrals to the national referral mechanism, which assesses potential victims of slavery and provides support to victims, numbers have almost doubled in the last five years from 12,691 referrals in 2021 to 23,411 in 2025, the highest ever number.
+ Continue reading...]]></summary>
+        <author>
+            <name>Diane Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern slavery at record levels in UK and expected to worsen, report warns]]></title>
+        <id>https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report</id>
+        <link href="https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report"/>
+        <updated>2026-05-04T23:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Government’s anti-slavery commissioner says traffickers are exploiting a growing pipeline of vulnerability
+Slavery in the UK is at record levels and is expected to worsen over the next decade, the government’s independent anti-slavery commissioner has warned.
+According to the number of referrals to the national referral mechanism, which assesses potential victims of slavery and provides support to victims, numbers have almost doubled in the last five years from 12,691 referrals in 2021 to 23,411 in 2025, the highest ever number.
+ Continue reading...]]></summary>
+        <author>
+            <name>Diane Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheap, plentiful energy is more important than climate-first strategy, says Tony Blair]]></title>
+        <id>b2970081</id>
+        <link href="https://www.independent.co.uk/news/uk/politics/tony-blair-net-zero-eu-b2970081.html"/>
+        <updated>2026-05-04T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The former PM says that decarbonisation is ‘essential’, but cannot be ‘pursued in isolation’]]></summary>
+        <author>
+            <name>Kate Devlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two British pubs closing every day as tax and cost pressures devastate hospitality sector]]></title>
         <id>b2970058</id>
@@ -16,20 +69,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australia news live: four Australians among passengers on luxury cruise ship hit by deadly suspected hantavirus outbreak]]></title>
-        <id>https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb</id>
-        <link href="https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb"/>
-        <updated>2026-05-04T22:54:19.000Z</updated>
-        <summary type="html"><![CDATA[MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today’s news live
-
-Get our breaking news email, free app or daily news podcast
-
-Two marine rescue volunteers who went to help others are among those who have died in a tragic yacht accident on Monday night.
-As we reported below, three people died as volunteers went to the aid of a yacht at the Ballina bar in northern New South Wales.
-Sentencing absolutely needs to reflect community expectations – but the act hasn’t been reviewed with that aim in mind since 1991. It’s no wonder many Victorians think sentencing doesn’t reflect our modern challenges. We’ll rewrite the act following the advice from experts, police and the public because, under Labor, community safety comes first.
- Continue reading...]]></summary>
+        <title type="html"><![CDATA[Barack Obama says he doesn’t want to become a ‘commentator’ like Jon Stewart]]></title>
+        <id>b2970225</id>
+        <link href="https://www.independent.co.uk/arts-entertainment/tv/news/barack-obama-jon-stewart-commentator-b2970225.html"/>
+        <updated>2026-05-04T22:59:48.000Z</updated>
+        <summary type="html"><![CDATA[The former president added: ‘By the way, I’m glad Jon’s doing it’]]></summary>
         <author>
-            <name>Stephanie Convery</name>
+            <name>Kevin E G Perry</name>
         </author>
     </entry>
     <entry>
@@ -585,16 +631,6 @@ The US operation, which got under way on Monday after being announced as “Proj
  Continue reading...]]></summary>
         <author>
             <name>Julian Borger in Jerusalem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barack Obama says he doesn’t want to become a ‘commentator’ like Jon Stewart]]></title>
-        <id>b2970225</id>
-        <link href="https://www.independent.co.uk/arts-entertainment/tv/news/barack-obama-jon-stewart-commentator-b2970225.html"/>
-        <updated>2026-05-04T19:17:51.000Z</updated>
-        <summary type="html"><![CDATA[The former president added: ‘By the way, I’m glad Jon’s doing it’]]></summary>
-        <author>
-            <name>Kevin E G Perry</name>
         </author>
     </entry>
     <entry>
@@ -1295,19 +1331,6 @@ Alice Chapman and Zak Khan were among 180 members of the Global Sumud flotilla d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study</id>
-        <link href="https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study"/>
-        <updated>2026-05-04T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers
-AI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.
-“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large language model] visibility.”
- Continue reading...]]></summary>
-        <author>
-            <name>Aisha Down</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse]]></title>
         <id>https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse</id>
         <link href="https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse"/>
@@ -1351,19 +1374,6 @@ AI platforms are more likely to reference Nigel Farage than any other UK leader 
         <summary type="html"><![CDATA[Pakistan said the release of the crew members reflected a 'confidence-building measure' between Tehran and Washington.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage]]></title>
-        <id>https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz</id>
-        <link href="https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz"/>
-        <updated>2026-05-04T15:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa
-A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel shortage.
-Heidi Alexander, the transport secretary, said at the weekend that part of the answer to the strait of Hormuz crisis was to import more fuel from the US and west Africa.
- Continue reading...]]></summary>
-        <author>
-            <name>Daniel Boffey Chief reporter</name>
         </author>
     </entry>
     <entry>
@@ -1458,6 +1468,19 @@ Owner-occupier loan growth slowed under the weight of growing mortgage costs but
  Continue reading...]]></summary>
         <author>
             <name>Luca Ittimani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Just Eat couriers launch legal action to improve workers’ rights]]></title>
+        <id>https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights</id>
+        <link href="https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights"/>
+        <updated>2026-05-04T15:00:27.000Z</updated>
+        <summary type="html"><![CDATA[More than 7,000 join employment tribunal that will include claims for minimum wage and holiday pay 
+More than 7,000 Just Eat couriers are taking legal action against the food delivery company in an attempt to gain better employment rights including the minimum wage and holiday pay.
+The employment tribunal, which begins on Tuesday and is set to run until 2 June, will determine if the couriers are classed as workers, a status that comes with improved rights, or self-employed independent contractors.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sarah Butler</name>
         </author>
     </entry>
     <entry>
@@ -2273,19 +2296,6 @@ All eyes are on the guest list – and their outfits – to launch the fashion e
  Continue reading...]]></summary>
         <author>
             <name>Morwenna Ferrier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heathrow in talks with airlines to end row that could delay third runway]]></title>
-        <id>https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay</id>
-        <link href="https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay"/>
-        <updated>2026-05-03T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Airport seeks deal with BA owner, Virgin and billionaire local landowner, who has own expansion plan, over cost and service issues
-Heathrow’s new chair has opened talks with airlines and the billionaire local landowner Surinder Arora to defuse a row that threatens to further delay the £49bn plan to build a third runway at Europe’s busiest airport.
-Philip Jansen, who was appointed at the start of the year, is understood to have held meetings with the airport’s carriers and with Arora, who has been promoting his own £25bn expansion scheme, in the hope of finding the middle ground in a row over cost and service issues.
- Continue reading...]]></summary>
-        <author>
-            <name>Mark Sweney</name>
         </author>
     </entry>
     <entry>
