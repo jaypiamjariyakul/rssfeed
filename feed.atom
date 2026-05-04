@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T23:13:54.584Z</id>
+    <id>urn:2026-05-04T23:14:18.381Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T23:13:54.584Z</updated>
+    <updated>2026-05-04T23:14:18.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,19 +20,6 @@ Sentencing absolutely needs to reflect community expectations – but the act ha
  Continue reading...]]></summary>
         <author>
             <name>Stephanie Convery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern slavery at record levels in UK and expected to worsen, report warns]]></title>
-        <id>https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report</id>
-        <link href="https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report"/>
-        <updated>2026-05-04T23:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Government’s anti-slavery commissioner says traffickers are exploiting a growing pipeline of vulnerability
-Slavery in the UK is at record levels and is expected to worsen over the next decade, the government’s independent anti-slavery commissioner has warned.
-According to the number of referrals to the national referral mechanism, which assesses potential victims of slavery and provides support to victims, numbers have almost doubled in the last five years from 12,691 referrals in 2021 to 23,411 in 2025, the highest ever number.
- Continue reading...]]></summary>
-        <author>
-            <name>Diane Taylor</name>
         </author>
     </entry>
     <entry>
@@ -1390,6 +1377,19 @@ Heidi Alexander, the transport secretary, said at the weekend that part of the a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage]]></title>
+        <id>https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz</id>
+        <link href="https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz"/>
+        <updated>2026-05-04T15:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa
+A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel shortage.
+Heidi Alexander, the transport secretary, said at the weekend that part of the answer to the strait of Hormuz crisis was to import more fuel from the US and west Africa.
+ Continue reading...]]></summary>
+        <author>
+            <name>Daniel Boffey Chief reporter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz]]></title>
         <id>https://www.aljazeera.com/?t=1777902836</id>
         <link href="https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss"/>
@@ -1468,19 +1468,6 @@ Owner-occupier loan growth slowed under the weight of growing mortgage costs but
  Continue reading...]]></summary>
         <author>
             <name>Luca Ittimani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Just Eat couriers launch legal action to improve workers’ rights]]></title>
-        <id>https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights</id>
-        <link href="https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights"/>
-        <updated>2026-05-04T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[More than 7,000 join employment tribunal that will include claims for minimum wage and holiday pay 
-More than 7,000 Just Eat couriers are taking legal action against the food delivery company in an attempt to gain better employment rights including the minimum wage and holiday pay.
-The employment tribunal, which begins on Tuesday and is set to run until 2 June, will determine if the couriers are classed as workers, a status that comes with improved rights, or self-employed independent contractors.
- Continue reading...]]></summary>
-        <author>
-            <name>Sarah Butler</name>
         </author>
     </entry>
     <entry>
@@ -2296,6 +2283,19 @@ All eyes are on the guest list – and their outfits – to launch the fashion e
  Continue reading...]]></summary>
         <author>
             <name>Morwenna Ferrier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heathrow in talks with airlines to end row that could delay third runway]]></title>
+        <id>https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay</id>
+        <link href="https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay"/>
+        <updated>2026-05-03T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Airport seeks deal with BA owner, Virgin and billionaire local landowner, who has own expansion plan, over cost and service issues
+Heathrow’s new chair has opened talks with airlines and the billionaire local landowner Surinder Arora to defuse a row that threatens to further delay the £49bn plan to build a third runway at Europe’s busiest airport.
+Philip Jansen, who was appointed at the start of the year, is understood to have held meetings with the airport’s carriers and with Arora, who has been promoting his own £25bn expansion scheme, in the hope of finding the middle ground in a row over cost and service issues.
+ Continue reading...]]></summary>
+        <author>
+            <name>Mark Sweney</name>
         </author>
     </entry>
     <entry>
