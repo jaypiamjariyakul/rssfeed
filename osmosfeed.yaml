@@ -4,6 +4,7 @@
 #########################
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+
 sources:
 # NPR
   - href: https://feeds.npr.org/1002/rss.xml
@@ -17,20 +18,48 @@ sources:
   - href: https://www.independent.co.uk/news/world/rss
   - href: https://www.independent.co.uk/news/business/rss
   - href: https://www.independent.co.uk/news/science/rss
-# Economist
-  - href: https://www.economist.com/finance-and-economics/rss.xml
-  - href: https://www.economist.com/asia/rss.xml
-  - href: https://www.economist.com/europe/rss.xml
-  - href: https://www.economist.com/middle-east-and-africa/rss.xml
-  - href: https://www.economist.com/britain/rss.xml
-  - href: https://www.economist.com/united-states/rss.xml
 # Al Jazeera
   - href: https://www.aljazeera.com/xml/rss/all.xml
+# WSJ
+  - href: https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+  - href: https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+  - href: https://feeds.content.dowjones.io/public/rss/socialeconomyfeed
+  - href: https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed
+# Bloomberg
+  - href: https://feeds.bloomberg.com/markets/news.rss
+  - href: https://feeds.bloomberg.com/politics/news.rss
+  - href: https://feeds.bloomberg.com/technology/news.rss
+  - href: https://feeds.bloomberg.com/wealth/news.rss
+  - href: https://feeds.bloomberg.com/business/news.rss
+# Financial Times
+  - href: https://www.ft.com/world?format=rss
+  - href: https://www.ft.com/technology?format=rss
+  - href: https://www.ft.com/markets?format=rss
+  - href: https://www.ft.com/world-uk?format=rss
+  #- href: https://www.ft.com/?format=rss
+  #- href: https://www.ft.com/us?format=rss
+  #- href: https://www.ft.com/china?format=rss
+  #- href: https://www.ft.com/africa?format=rss
+  #- href: https://www.ft.com/china?format=rss
+  #- href: https://www.ft.com/europe?format=rss
+  #- href: https://www.ft.com/middle-east-north-africa?format=rss
+  #- href: https://www.ft.com/global-economy?format=rss
+
+# Unsupported RSS sites
+  
+# Economist
+  #- href: https://www.economist.com/finance-and-economics/rss.xml
+  #- href: https://www.economist.com/asia/rss.xml
+  #- href: https://www.economist.com/europe/rss.xml
+  #- href: https://www.economist.com/middle-east-and-africa/rss.xml
+  #- href: https://www.economist.com/britain/rss.xml
+  #- href: https://www.economist.com/united-states/rss.xml
 # AP
   # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/world-news.xml
   # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/technology.xml
   # - href: http://associated-press.s3-website-us-east-1.amazonaws.com/business.xml
-  
+
+
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
 #  - href: https://css-tricks.com/feed/
 #  - href: https://www.smashingmagazine.com/feed/
