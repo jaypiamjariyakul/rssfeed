@@ -1,42 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T23:26:12.649Z</id>
+    <id>urn:2026-05-05T03:40:02.509Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T23:26:12.649Z</updated>
+    <updated>2026-05-05T03:40:02.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Google brushes off employee complaints and says it is ‘proud’ to work with Trump’s Pentagon, report says]]></title>
-        <id>b2970268</id>
-        <link href="https://www.independent.co.uk/news/world/americas/us-politics/google-trump-deal-protest-pentagon-ai-b2970268.html"/>
-        <updated>2026-05-04T23:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of Google employees sent an open letter to the company’s leadership about the Pentagon deal, warning of military AI’s potential for ‘unethical and dangerous uses’]]></summary>
+        <title type="html"><![CDATA[US-Iran Exchange Fire in Gulf, UAE Comes Under Attack, More]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/us-iran-exchange-fire-in-gulf-uae-comes-under-attack-more</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/us-iran-exchange-fire-in-gulf-uae-comes-under-attack-more"/>
+        <updated>2026-05-05T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 5:39]]></summary>
         <author>
-            <name>Josh Marcus</name>
+            <name>Bloomberg.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[News live: four Australians on cruise ship amid suspected hantavirus outbreak; nation’s highest diphtheria levels in decades]]></title>
+        <title type="html"><![CDATA[Australia news live: Hanson considers lower-house run; RBA interest rates decision at 2.30pm]]></title>
         <id>https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb</id>
         <link href="https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb"/>
-        <updated>2026-05-04T23:14:03.000Z</updated>
-        <summary type="html"><![CDATA[MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today’s news live
+        <updated>2026-05-05T03:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Follow today’s news live
 
 Get our breaking news email, free app or daily news podcast
 
 Two marine rescue volunteers who went to help others are among those who have died in a tragic yacht accident on Monday night.
 As we reported below, three people died as volunteers went to the aid of a yacht at the Ballina bar in northern New South Wales.
-Sentencing absolutely needs to reflect community expectations – but the act hasn’t been reviewed with that aim in mind since 1991. It’s no wonder many Victorians think sentencing doesn’t reflect our modern challenges. We’ll rewrite the act following the advice from experts, police and the public because, under Labor, community safety comes first.
  Continue reading...]]></summary>
         <author>
             <name>Stephanie Convery</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Evacuations imminent for more sick cruise ship passengers after hantavirus outbreak leaves three dead: Live updates]]></title>
+        <id>b2969914</id>
+        <link href="https://www.independent.co.uk/news/world/europe/hantavirus-outbreak-atlantic-cruise-ship-live-updates-b2969914.html"/>
+        <updated>2026-05-05T03:18:29.000Z</updated>
+        <summary type="html"><![CDATA[‘There is a lot of uncertainty and that is the hardest part,’ American travel blogger Jake Rosmarin, who is aboard the ship, said on Monday]]></summary>
+        <author>
+            <name>Simon Calder,Maryam Zakir-Hussain and Shweta Sharma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Middle East crisis live: Trump warns Iranian forces they will be ‘blown off the face of the Earth’ if they target US ships]]></title>
         <id>https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes</id>
         <link href="https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes"/>
-        <updated>2026-05-04T23:12:09.000Z</updated>
+        <updated>2026-05-05T03:15:25.000Z</updated>
         <summary type="html"><![CDATA[US president’s comment echoes threat that ‘whole civilisation will die’ as tension over strait of Hormuz ramps up again
 
 Donald Trump sends warships to break Iran’s strait of Hormuz blockade
@@ -46,6 +55,676 @@ We will maintain and vigorously manage the security of the strait of Hormuz with
  Continue reading...]]></summary>
         <author>
             <name>Adam Fulton (now); Lucy Campbell, Charlie Moloney, Tom Ambrose and Yohannes Lowe (earlier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan’s Lai Insists On Right to Visit Allies After Africa Trip]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/taiwan-s-lai-insists-on-right-to-visit-allies-after-africa-trip</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/taiwan-s-lai-insists-on-right-to-visit-allies-after-africa-trip"/>
+        <updated>2026-05-05T03:15:10.000Z</updated>
+        <summary type="html"><![CDATA[President Lai Ching-te said Taiwan’s leaders have the right to engage with the world and visit the leaders of allied countries, after returning from an African mission that his administration claims was nearly thwarted by China.]]></summary>
+        <author>
+            <name>Yian Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘She’s terrible’: Trump blasts CBS News correspondent Norah O’Donnell in latest attack against women reporters]]></title>
+        <id>b2970381</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-norah-odonnell-cbs-white-house-corespondents-shooting-b2970381.html"/>
+        <updated>2026-05-05T03:11:48.000Z</updated>
+        <summary type="html"><![CDATA[O’Donnell drew Trump’s ire during an interview about the suspect accused of opening fire at the White House Correspondents’ Dinner]]></summary>
+        <author>
+            <name>Rachel Dobkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong security presence in Mexico’s Sinaloa state amid cartel violence]]></title>
+        <id>https://www.aljazeera.com/?t=1777950336</id>
+        <link href="https://www.aljazeera.com/video/newsfeed/2026/5/5/strong-security-presence-in-mexicos-sinaloa-state-amid-cartel-violence?traffic_source=rss"/>
+        <updated>2026-05-05T03:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Security forces have intensified their presence across parts of Mexico’s Sinaloa.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorian budget 2026: state records first post-pandemic surplus but financial health uncertain as debt nears $200bn]]></title>
+        <id>https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus</id>
+        <link href="https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus"/>
+        <updated>2026-05-05T03:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Labor’s 2026-27 budget shows $727m operating surplus for this financial year as debt forecast to soar by decade’s end
+
+Winners and losers: Victoria’s 2026 budget cuts transport costs and helps parents - but will future generations suffer?
+
+Follow our Australia news live blog for latest updates
+
+Get our breaking news email, free app or daily news podcast
+
+Victoria has recorded a surplus for the first time since the pandemic but the state’s financial recovery remains uncertain with debt forecast to near $200bn in coming years amid global uncertainty.
+The 2026-27 Victorian budget, handed down on Tuesday, shows the state recorded a $727m operating surplus in 2025-26, a slight improvement on December’s pre-budget update of $710m and the $611m forecast last May.
+ Continue reading...]]></summary>
+        <author>
+            <name>Benita Kolovos Victorian state correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Sports Jumps 204% as Hong Kong Debut Frenzy Extends]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/star-sports-jumps-204-as-hong-kong-debut-frenzy-extends</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/star-sports-jumps-204-as-hong-kong-debut-frenzy-extends"/>
+        <updated>2026-05-05T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Shares of Star Sports Medicine Co., a maker of medical devices, surged as much as 204% in their Hong Kong trading debut on Tuesday, extending a run of hot first-day performances in the city.]]></summary>
+        <author>
+            <name>Sangmi Cha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Sports Jumps 204% as Hong Kong Debut Frenzy Extends]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/star-sports-jumps-204-as-hong-kong-debut-frenzy-extends</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/star-sports-jumps-204-as-hong-kong-debut-frenzy-extends"/>
+        <updated>2026-05-05T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Shares of Star Sports Medicine Co., a maker of medical devices, surged as much as 204% in their Hong Kong trading debut on Tuesday, extending a run of hot first-day performances in the city.]]></summary>
+        <author>
+            <name>Sangmi Cha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran-US war latest: US claims it has sunk six Iranian small boats as tensions rise in Strait of Hormuz]]></title>
+        <id>b2970388</id>
+        <link href="https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-missiles-uae-b2970388.html"/>
+        <updated>2026-05-05T03:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The US president vowed to free commercial ships stranded in the waterway as part of so-called ‘Project Freedom’]]></summary>
+        <author>
+            <name>Maroosha Muzaffar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate GOP Seeks $1 Billion for Secret Service, Trump Ballroom]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/senate-gop-seeks-1-billion-for-secret-service-trump-ballroom</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/senate-gop-seeks-1-billion-for-secret-service-trump-ballroom"/>
+        <updated>2026-05-05T02:57:16.000Z</updated>
+        <summary type="html"><![CDATA[A top Senate Republican has proposed spending as much as $1 billion for US Secret Service security adjustments and upgrades, including for President Donald Trump’s planned White House ballroom.]]></summary>
+        <author>
+            <name>Derek Wallbank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Explores Using Intel and Samsung to Build Main Device Chips]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us"/>
+        <updated>2026-05-05T02:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple Inc. has held exploratory discussions about using Intel Corp. and Samsung Electronics Co. to produce the main processors for its devices in the US, a move that would offer a secondary option beyond longtime partner Taiwan Semiconductor Manufacturing Co.]]></summary>
+        <author>
+            <name>Mark Gurman, Ian King, Ryan Gould</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Spike on Middle East Tensions Puts India’s Stock Rebound at Risk]]></title>
+        <id>https://www.bloomberg.com/news/newsletters/2026-05-05/oil-spike-on-middle-east-tensions-threatens-india-stock-market-rebound</id>
+        <link href="https://www.bloomberg.com/news/newsletters/2026-05-05/oil-spike-on-middle-east-tensions-threatens-india-stock-market-rebound"/>
+        <updated>2026-05-05T02:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Domestic flows, earnings and Modi’s state-election wins could offer support.]]></summary>
+        <author>
+            <name>Ashutosh Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Spike on Middle East Tensions Puts India’s Stock Rebound at Risk]]></title>
+        <id>https://www.bloomberg.com/news/newsletters/2026-05-05/oil-spike-on-middle-east-tensions-threatens-india-stock-market-rebound</id>
+        <link href="https://www.bloomberg.com/news/newsletters/2026-05-05/oil-spike-on-middle-east-tensions-threatens-india-stock-market-rebound"/>
+        <updated>2026-05-05T02:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Domestic flows, earnings and Modi’s state-election wins could offer support.]]></summary>
+        <author>
+            <name>Ashutosh Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold Could Rise If Fed Guidance Points to Future Easing]]></title>
+        <id>WP-WSJ-0003552588</id>
+        <link href="https://www.wsj.com/finance/commodities-futures/gold-steady-amid-likely-technical-recovery-8b97323c?mod=rss_markets_main"/>
+        <updated>2026-05-05T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Gold could rise as long as consensus and Federal Reserve forward guidance point toward future easing, said State Street Investment Management.]]></summary>
+        <author>
+            <name>WSJ.com: Markets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US-Iran Trade Fire in Gulf, Tests Ceasefire, More]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/us-iran-trade-fire-in-gulf-tests-ceasefire-more</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/us-iran-trade-fire-in-gulf-tests-ceasefire-more"/>
+        <updated>2026-05-05T02:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 5:21]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Focus on Cyclical, Structural Impacts of Iran War: Manulife IM]]></title>
+        <id>https://www.bloomberg.com/news/videos/2026-05-05/focus-on-cyclical-structural-impacts-manulife-im-video</id>
+        <link href="https://www.bloomberg.com/news/videos/2026-05-05/focus-on-cyclical-structural-impacts-manulife-im-video"/>
+        <updated>2026-05-05T02:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Marc Franklin of Manulife Investment Management says the focus is on what are the cyclical and structural impacts of the Middle East conflict. Franklin says there's a "preference more towards the US" than Europe. He adds that within the equity market construct, the firm likes structural plays, such as tech and AI "which still seem to have good tailwinds." (Source: Bloomberg)]]></summary>
+        <author>
+            <name>Bloomberg Markets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘They came to kill us’: royal commission hears horrific accounts of antisemitism faced by Jewish children in Australia]]></title>
+        <id>https://www.theguardian.com/australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb</id>
+        <link href="https://www.theguardian.com/australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb"/>
+        <updated>2026-05-05T02:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Jewish children face antisemitic abuse, swastikas etched on school walls and other students performing Nazi salutes, hearing told
+
+Follow our Australia news live blog for latest updates
+
+Get our breaking news email, free app or daily news podcast
+
+Jewish children in Australia face antisemitic abuse at school, see swastikas daubed on walls and witness classmates perform Nazi salutes: they live with antisemitism “all day, every day”, a Sydney Jewish mother has told a royal commission hearing.
+The woman, known as Dina before the commission, said Australia had become a more hostile, more dangerous place for Jews, most horrifically demonstrated by the Bondi massacre in December in which 15 people were shot and killed.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ben Doherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender]]></title>
+        <id>https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb</id>
+        <link href="https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"/>
+        <updated>2026-05-05T02:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation
+An acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google, alleging that the online giant defamed him by falsely identifying him as a sex offender in an AI-generated summary of his life and career.
+Ashley MacIsaac, a three-time Juno award-winning musician, filed the claim in the Ontario superior court of justice, asserting that Google was liable for the “foreseeable republication” of its AI-generated Overview feature, which previously published defamatory claims that he had been convicted of multiple criminal offences, including the sexual assault of a woman, internet luring involving a child with the intention of sexual assaulting the child, and assault causing bodily harm.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sian Cain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starwood CEO on Business Strategy, AI, Data Centers]]></title>
+        <id>https://www.bloomberg.com/news/videos/2026-05-05/starwood-ceo-on-business-strategy-ai-data-centers-video</id>
+        <link href="https://www.bloomberg.com/news/videos/2026-05-05/starwood-ceo-on-business-strategy-ai-data-centers-video"/>
+        <updated>2026-05-05T02:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Barry Sternlicht, Chairman and CEO at Starwood Capital Group, discusses the company's business strategy and investing in AI and data centers. He speaks with Romaine Bostick from the sidelines of the Milken Institute Global Conference in Beverly Hills.  (Source: Bloomberg)]]></summary>
+        <author>
+            <name>Bloomberg Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copper Drops as Iran and US Trade Fire in Gulf, Testing Truce]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/copper-drops-as-iran-and-us-trade-fire-in-gulf-testing-truce</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/copper-drops-as-iran-and-us-trade-fire-in-gulf-testing-truce"/>
+        <updated>2026-05-05T02:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Copper fell after the US and Iran exchanged fire in the Persian Gulf on Monday, casting doubt over the fate of a ceasefire and raising concerns about further escalation in the conflict that’s upended global markets.]]></summary>
+        <author>
+            <name>Katharine Gemmell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian Miner Invested in Cuba Says It's Assessing Trump's Fresh Sanctions]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/canadian-miner-says-it-s-assessing-trump-s-latest-cuba-sanctions</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/canadian-miner-says-it-s-assessing-trump-s-latest-cuba-sanctions"/>
+        <updated>2026-05-05T02:04:30.000Z</updated>
+        <summary type="html"><![CDATA[A Canadian mining company that is among Cuba’s largest foreign investors is consulting with advisers and stakeholders after President Donald Trump expanded US sanctions against the struggling Caribbean nation.]]></summary>
+        <author>
+            <name>Stephen Wicary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Opportunities to Accumulate Australian Dollar Likely Loom]]></title>
+        <id>WP-WSJ-0003552815</id>
+        <link href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-renewed-middle-east-tensions-2c3c669b?mod=rss_markets_main"/>
+        <updated>2026-05-05T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Better opportunities to accumulate the Australian dollar against other currencies likely loom, Maybank said.]]></summary>
+        <author>
+            <name>WSJ.com: Markets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Is Using Its 1980s Playbook, Plus Drones, to Cripple Global Shipping]]></title>
+        <id>WP-WSJ-0003551508</id>
+        <link href="https://www.wsj.com/world/middle-east/iran-is-using-its-1980s-playbook-plus-drones-to-cripple-global-shipping-51fb17da"/>
+        <updated>2026-05-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Four decades ago, Iran and the U.S. were on a collision course over oil shipping, an episode with inexact parallels to today’s war.]]></summary>
+        <author>
+            <name>James T. Areddy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats say ‘fight is just beginning’ after supreme court’s temporary reinstatement of abortion pill access – as it happened]]></title>
+        <id>https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates</id>
+        <link href="https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates"/>
+        <updated>2026-05-05T01:59:36.000Z</updated>
+        <summary type="html"><![CDATA[This live blog is now closed.
+
+Sign up for the Breaking News US email
+
+The supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday.
+This comes after two companies who manufacture mifepristone the drug filed an emergency appeal to the court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.
+ Continue reading...]]></summary>
+        <author>
+            <name>Coral Murphy Marcos, Shrai Popat, Lucy Campbell and Tom Ambrose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats say ‘fight is just beginning’ after supreme court’s temporary reinstatement of abortion pill access – as it happened]]></title>
+        <id>https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates</id>
+        <link href="https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates"/>
+        <updated>2026-05-05T01:59:36.000Z</updated>
+        <summary type="html"><![CDATA[This live blog is now closed.
+
+Sign up for the Breaking News US email
+
+The supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday.
+This comes after two companies who manufacture mifepristone the drug filed an emergency appeal to the court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.
+ Continue reading...]]></summary>
+        <author>
+            <name>Coral Murphy Marcos, Shrai Popat, Lucy Campbell and Tom Ambrose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US and Iran exchange fire as Hormuz crisis reignites]]></title>
+        <id>2e483f6e-4ecc-4063-acac-9e2509ccda98</id>
+        <link href="https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98"/>
+        <updated>2026-05-05T01:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Oil holds on to gains as Tehran targets UAE and American forces hit Iranian fast boats]]></summary>
+        <author>
+            <name>World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US and Iran exchange fire as Hormuz crisis reignites]]></title>
+        <id>2e483f6e-4ecc-4063-acac-9e2509ccda98</id>
+        <link href="https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98"/>
+        <updated>2026-05-05T01:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Oil jumps as Tehran targets UAE and US hits Iranian fast boats]]></summary>
+        <author>
+            <name>Markets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israeli strike sparks fire in northern Gaza City]]></title>
+        <id>https://www.aljazeera.com/?t=1777946087</id>
+        <link href="https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss"/>
+        <updated>2026-05-05T01:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Video from Gaza City shows flames rising after an Israeli strike targeted a group of civilians.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship]]></title>
+        <id>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</id>
+        <link href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"/>
+        <updated>2026-05-05T01:52:50.000Z</updated>
+        <summary type="html"><![CDATA[WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died
+
+What is hantavirus, the infection thought to have killed three on cruise ship?
+
+A British crew member was in need of urgent medical care and a passenger from the UK remained in a critical but stable condition following a suspected outbreak of hantavirus on a luxury cruise ship in the Atlantic Ocean.
+Three people have died and medics on Monday were scrambling to evacuate two others from the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries. The crisis emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ashifa Kassam and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship]]></title>
+        <id>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</id>
+        <link href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"/>
+        <updated>2026-05-05T01:52:50.000Z</updated>
+        <summary type="html"><![CDATA[WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died
+
+What is hantavirus, the infection thought to have killed three on cruise ship?
+
+A British crew member was in need of urgent medical care and a passenger from the UK remained in a critical but stable condition following a suspected outbreak of hantavirus on a luxury cruise ship in the Atlantic Ocean.
+Three people have died and medics on Monday were scrambling to evacuate two others from the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries. The crisis emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ashifa Kassam and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Tensions Flare Up Again, Oil Spikes, More]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/iran-tensions-flare-up-again-oil-spikes-more</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/iran-tensions-flare-up-again-oil-spikes-more"/>
+        <updated>2026-05-05T01:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 5:39]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alabama lawmakers adjourn after protests over redistricting]]></title>
+        <id>https://www.aljazeera.com/?t=1777944493</id>
+        <link href="https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss"/>
+        <updated>2026-05-05T01:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Alabama lawmakers adjourned their session after protesters entered the State House during protests over redistricting.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middle East war hits the Indian economy]]></title>
+        <id>dc7aaeb5-c72f-4ef1-8cc7-919cbfc88853</id>
+        <link href="https://www.ft.com/content/dc7aaeb5-c72f-4ef1-8cc7-919cbfc88853"/>
+        <updated>2026-05-05T01:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Also in this newsletter, car sales at record highs]]></summary>
+        <author>
+            <name>World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret Service Officers Shoot Gunman Near the White House]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/secret-service-officers-shoot-gunman-near-the-white-house</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/secret-service-officers-shoot-gunman-near-the-white-house"/>
+        <updated>2026-05-05T01:25:33.000Z</updated>
+        <summary type="html"><![CDATA[A man was shot by Secret Service officers near the White House Monday afternoon after agents spotted him carrying a concealed firearm and he opened fire, according to the agency’s deputy director.]]></summary>
+        <author>
+            <name>Myles Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloomberg Daybreak Asia: Iran Tensions Flare Up Again (Podcast)]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/bloomberg-daybreak-asia-iran-tensions-flare-up-again-podcast</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/bloomberg-daybreak-asia-iran-tensions-flare-up-again-podcast"/>
+        <updated>2026-05-05T01:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 0:00]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US supreme court expedites Voting Rights Act ruling so Louisiana can redraw its maps for midterms]]></title>
+        <id>https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling</id>
+        <link href="https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling"/>
+        <updated>2026-05-05T01:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Ketanji Brown Jackson blasted the decision, saying the court has hastened it ruling only twice before in 25 years
+The US supreme court went out of its way on Monday to help Louisiana Republicans redraw their congressional maps before this year’s midterm elections by allowing a recent ruling that gutted a key part of the Voting Rights Act to take effect ahead of schedule.
+The procedural move comes less than a week after the court’s landmark decision striking down Louisiana’s congressional map and gutting section 2 of the Voting Rights Act. Usually, the court waits 32 days to formally issue its judgment to the lower court. Last week, Louisiana asked the court to speed up that process, citing the urgency with which it needed to redraw its congressional maps. On Monday, the court agreed to do so.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sam Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US supreme court expedites Voting Rights Act ruling so Louisiana can redraw its maps for midterms]]></title>
+        <id>https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling</id>
+        <link href="https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling"/>
+        <updated>2026-05-05T01:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Ketanji Brown Jackson blasted the decision, saying the court has hastened it ruling only twice before in 25 years
+The US supreme court went out of its way on Monday to help Louisiana Republicans redraw their congressional maps before this year’s midterm elections by allowing a recent ruling that gutted a key part of the Voting Rights Act to take effect ahead of schedule.
+The procedural move comes less than a week after the court’s landmark decision striking down Louisiana’s congressional map and gutting section 2 of the Voting Rights Act. Usually, the court waits 32 days to formally issue its judgment to the lower court. Last week, Louisiana asked the court to speed up that process, citing the urgency with which it needed to redraw its congressional maps. On Monday, the court agreed to do so.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sam Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Futures Fall on Possible Technical Correction]]></title>
+        <id>WP-WSJ-0003552840</id>
+        <link href="https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-technical-correction-21216651?mod=rss_markets_main"/>
+        <updated>2026-05-05T01:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Oil futures fell in early Asian trade on a possible technical correction after WTI and Brent futures settled markedly higher on Monday.]]></summary>
+        <author>
+            <name>WSJ.com: Markets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Fund Firm Aspect Offers China Strategy to Global Investors]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/hedge-fund-firm-aspect-offers-china-strategy-to-global-investors</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/hedge-fund-firm-aspect-offers-china-strategy-to-global-investors"/>
+        <updated>2026-05-05T01:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Aspect Capital Ltd. has made one of its China strategies available to international investors for the first time, tapping demand from allocators seeking to diversify their portfolios.]]></summary>
+        <author>
+            <name>Bei Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Fund Firm Aspect Offers China Strategy to Global Investors]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/hedge-fund-firm-aspect-offers-china-strategy-to-global-investors</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/hedge-fund-firm-aspect-offers-china-strategy-to-global-investors"/>
+        <updated>2026-05-05T01:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Aspect Capital Ltd. has made one of its China strategies available to international investors for the first time, tapping demand from allocators seeking to diversify their portfolios.]]></summary>
+        <author>
+            <name>Bei Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk and SEC propose to settle Twitter lawsuit for just $1.5mn]]></title>
+        <id>a760cb3e-b949-4120-b637-32e7464227cb</id>
+        <link href="https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb"/>
+        <updated>2026-05-05T01:03:44.000Z</updated>
+        <summary type="html"><![CDATA[US regulator claimed billionaire waiting too long to disclose his stake in the social media platform]]></summary>
+        <author>
+            <name>World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk and SEC propose to settle Twitter lawsuit for just $1.5mn]]></title>
+        <id>a760cb3e-b949-4120-b637-32e7464227cb</id>
+        <link href="https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb"/>
+        <updated>2026-05-05T01:03:44.000Z</updated>
+        <summary type="html"><![CDATA[US regulator claimed billionaire waiting too long to disclose his stake in the social media platform]]></summary>
+        <author>
+            <name>Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump news at a glance: Middle East tensions back to the brink with president’s new threats against Iran]]></title>
+        <id>https://www.theguardian.com/us-news/2026/may/04/trump-news-at-a-glance-latest-updates-today</id>
+        <link href="https://www.theguardian.com/us-news/2026/may/04/trump-news-at-a-glance-latest-updates-today"/>
+        <updated>2026-05-05T01:00:37.000Z</updated>
+        <summary type="html"><![CDATA[US launched operation Monday to help hundreds of ships trapped with their crews in Gulf – key US politics stories from Monday 4 May at a glance
+Donald Trump has threatened that Iran will be “blown off the face of the earth” if it attacks US vessels trying to reopen a route through the strait of Hormuz.
+The US launched an operation on Monday to help hundreds of ships trapped with their crews in the Gulf, dragging the region back to the brink of full-scale war.
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley’s Investment Banking Program in Budapest Hit by U.S. Probe]]></title>
+        <id>WP-WSJ-0003551669</id>
+        <link href="https://www.wsj.com/finance/banking/morgan-stanleys-investment-banking-program-in-budapest-hit-by-u-s-probe-72e03e93?mod=rss_markets_main"/>
+        <updated>2026-05-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finra has launched an inquiry asking about unlicensed junior investment bankers in Hungary working on deals for clients in the U.S. and Europe.]]></summary>
+        <author>
+            <name>Alexander Saeedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California investigates Trump administration's deal to end an offshore wind project]]></title>
+        <id>b2970374</id>
+        <link href="https://www.independent.co.uk/news/world/americas/donald-trump-california-joe-biden-doug-burgum-french-b2970374.html"/>
+        <updated>2026-05-05T00:50:50.000Z</updated>
+        <summary type="html"><![CDATA[California is investigating one of the Trump administration’s deals to end an offshore wind project]]></summary>
+        <author>
+            <name>Jennifer McDermott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia becomes a trade deal champion to counter Trump and China]]></title>
+        <id>6fe66fe6-3392-4bec-b81d-eafb7aa78e18</id>
+        <link href="https://www.ft.com/content/6fe66fe6-3392-4bec-b81d-eafb7aa78e18"/>
+        <updated>2026-05-05T00:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Facing hostility from its two largest trading partners, Canberra embarked on a drive to diversify]]></summary>
+        <author>
+            <name>World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manhunt for ‘armed and dangerous’ special forces veteran accused of shooting his wife in Tennessee]]></title>
+        <id>b2970364</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/manhunt-craig-berry-tennessee-special-forces-murder-b2970364.html"/>
+        <updated>2026-05-05T00:40:50.000Z</updated>
+        <summary type="html"><![CDATA[The ‘armed and dangerous’ suspect is accused of shooting his wife and fleeing into a wooded area]]></summary>
+        <author>
+            <name>Josh Marcus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US-Iran Trade Fire in Gulf, UAE Comes Under Attack, More]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/us-iran-trade-fire-in-gulf-uae-comes-under-attack-more</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/us-iran-trade-fire-in-gulf-uae-comes-under-attack-more"/>
+        <updated>2026-05-05T00:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 0:00]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Hottest Private Companies Have Booming Crypto Shadow Market]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/ai-s-hottest-private-companies-have-booming-crypto-shadow-market</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/ai-s-hottest-private-companies-have-booming-crypto-shadow-market"/>
+        <updated>2026-05-05T00:30:43.000Z</updated>
+        <summary type="html"><![CDATA[The race to sell retail investors a piece of the AI boom has gone mainstream — closed-end funds, interval funds, special-purpose vehicles. Now, crypto platforms are offering trades tied to the most valuable private AI companies on earth — ones ordinary investors have almost no other way to access.]]></summary>
+        <author>
+            <name>Ryan Weeks, Sidhartha Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloomberg Talks: Barry Sternlicht (Podcast)]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-05/bloomberg-talks-barry-sternlicht-podcast</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-05/bloomberg-talks-barry-sternlicht-podcast"/>
+        <updated>2026-05-05T00:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 10:10]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newborn born in Nablus a day after his father was killed in Israeli raid]]></title>
+        <id>https://www.aljazeera.com/?t=1777939629</id>
+        <link href="https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss"/>
+        <updated>2026-05-05T00:11:43.000Z</updated>
+        <summary type="html"><![CDATA[A Palestinian family in Nablus has welcomed a newborn whose father was shot dead by Israeli forces.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US and Iran Trade Fire, Jolting Four-Week-Old Ceasefire]]></title>
+        <id>https://www.bloomberg.com/news/videos/2026-05-05/us-and-iran-trade-fire-jolting-four-week-old-ceasefire-video</id>
+        <link href="https://www.bloomberg.com/news/videos/2026-05-05/us-and-iran-trade-fire-jolting-four-week-old-ceasefire-video"/>
+        <updated>2026-05-05T00:07:18.000Z</updated>
+        <summary type="html"><![CDATA[The US and Iran exchanged fire in the Persian Gulf in a flareup of violence on Monday that also drew in the United Arab Emirates, prompting calls for renewed strikes on Iranian targets and casting doubt on the fate of a four-week ceasefire. Bloomberg's Derek Wallbank breaks down the situation. (Source: Bloomberg)]]></summary>
+        <author>
+            <name>Bloomberg Politics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran war live: Washington, Tehran trade threats over Strait of Hormuz]]></title>
+        <id>https://www.aljazeera.com/?t=1777936250</id>
+        <link href="https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Israeli attacks have killed 2,696 people in Lebanon since March 2, the country's Health Ministry reports.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkshire Picks Gen Re Chairman as Insurance Star Ajit Jain’s Successor]]></title>
+        <id>WP-WSJ-0003552372</id>
+        <link href="https://www.wsj.com/business/berkshire-picks-gen-re-chairman-as-insurance-star-ajit-jains-successor-e857bb5f?mod=rss_markets_main"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Shamieh, an insurance-industry veteran, is slated to succeed Jain whenever he is ready to retire.]]></summary>
+        <author>
+            <name>Krystal Hur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacks on U.S. Warships in Strait Test Trump’s Desire to End Iran War]]></title>
+        <id>WP-WSJ-0003552364</id>
+        <link href="https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Speaking Monday from the White House, Trump referred to the latest round of attacks as a “mini war.”]]></summary>
+        <author>
+            <name>Alexander Ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[President Trump’s desire to end the Iran war is being put to the test after Tehran fired at American warships and violently disrupted a U.S. effort to revive shipping in the Strait of Hormuz]]></title>
+        <id>WP-WSJ-0003552364</id>
+        <link href="https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Speaking Monday from the White House, Trump referred to the latest round of attacks as a “mini war.”]]></summary>
+        <author>
+            <name>Alexander Ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $1.14 Million Trade That Sparked Hong Kong’s Segantii Insider Trading Trial]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-05/the-segantii-insider-trading-trial-in-hong-kong-what-to-know</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-05/the-segantii-insider-trading-trial-in-hong-kong-what-to-know"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the closely knit financial community of Hong Kong, major criminal cases are both rare and closely watched.]]></summary>
+        <author>
+            <name>Kiuyan Wong, Bei Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s World Liberty Financial venture sues crypto entrepreneur for defamation]]></title>
+        <id>https://www.theguardian.com/technology/2026/may/04/trump-world-liberty-financial-lawsuit-justin-sun</id>
+        <link href="https://www.theguardian.com/technology/2026/may/04/trump-world-liberty-financial-lawsuit-justin-sun"/>
+        <updated>2026-05-04T23:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Suit alleges that Hong Kong-based Justin Sun engaged in a campaign to ‘torch’ the company’s reputation
+
+Sign up for the Breaking News US newsletter email 
+
+World Liberty Financial, the crypto venture co-founded by Donald Trump and his sons, said on Monday it had filed a defamation lawsuit in Florida state court against the Hong Kong-based crypto entrepreneur Justin Sun, as a dispute escalates between the project and one of its most prominent backers.
+World Liberty posted a copy of its lawsuit on X in which it accused Sun of launching a “public smear campaign”. It alleged that Sun had improperly transferred some of his WLFI tokens that come with voting and governance rights to crypto exchange Binance and, separately, that he had placed bets that WLFI would decline in market value, known as short selling. That was part of a coordinated effort to push the token’s market price down as public trading began in September, the lawsuit alleged.
+ Continue reading...]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's 'Project Freedom' Fans Tensions | Balance of Power: Late Edition 05/04/2026]]></title>
+        <id>https://www.bloomberg.com/news/videos/2026-05-04/balance-of-power-late-edition-05-04-2026-video</id>
+        <link href="https://www.bloomberg.com/news/videos/2026-05-04/balance-of-power-late-edition-05-04-2026-video"/>
+        <updated>2026-05-04T23:47:29.000Z</updated>
+        <summary type="html"><![CDATA["Balance of Power: Late Edition" focuses on the intersection of politics and global business. On today's show, Commodity Futures Trading Commission Chairman Michael Selig weighs in on prediction markets, insider trading enforcement and the outlook for crypto legislation. Port of Los Angeles Executive Director Gene Seroka says shipping firms are taking a "wait and see" approach to US efforts to reopen the Strait of Hormuz. Representative Adam Smith (D-WA), Ranking Member of the House Armed Services Committee, criticizes the administration's Iran strategy. They all speak from the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)]]></summary>
+        <author>
+            <name>Bloomberg Politics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US-Iran Exchange Fire, Oil Rises on Hormuz Tension, More]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-05-04/us-iran-exchange-fire-oil-rises-on-hormuz-tension-more</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-05-04/us-iran-exchange-fire-oil-rises-on-hormuz-tension-more"/>
+        <updated>2026-05-04T23:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Source: Bloomberg, 5:39]]></summary>
+        <author>
+            <name>Bloomberg.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians]]></title>
+        <id>https://www.aljazeera.com/?t=1777644439</id>
+        <link href="https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss"/>
+        <updated>2026-05-04T23:37:54.000Z</updated>
+        <summary type="html"><![CDATA[ISIL-linked group has tortured, killed and abducted civilians in the Democratic Republic of Congo, including children.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blake Lively and Justin Baldoni settle dispute weeks before scheduled trial]]></title>
+        <id>https://www.npr.org/2026/05/04/nx-s1-5810970/blake-lively-justin-baldoni-settle-trial-it-ends-with-us</id>
+        <link href="https://www.npr.org/2026/05/04/nx-s1-5810970/blake-lively-justin-baldoni-settle-trial-it-ends-with-us"/>
+        <updated>2026-05-04T23:31:52.000Z</updated>
+        <summary type="html"><![CDATA[In a joint statement, lawyers for the actors said they hoped the settlement would bring "closure."]]></summary>
+        <author>
+            <name>Chloee Weiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google brushes off employee complaints and says it is ‘proud’ to work with Trump’s Pentagon, report says]]></title>
+        <id>b2970268</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/google-trump-deal-protest-pentagon-ai-b2970268.html"/>
+        <updated>2026-05-04T23:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of Google employees sent an open letter to the company’s leadership about the Pentagon deal, warning of military AI’s potential for ‘unethical and dangerous uses’]]></summary>
+        <author>
+            <name>Josh Marcus</name>
         </author>
     </entry>
     <entry>
@@ -66,6 +745,16 @@ We will maintain and vigorously manage the security of the strait of Hormuz with
         <summary type="html"><![CDATA[The virus spread by rodents killed three people and sickened three others, the World Health Organization said.]]></summary>
         <author>
             <name>Alyssa Lukpat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See the looks from the 2026 Met Gala red carpet]]></title>
+        <id>https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet</id>
+        <link href="https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet"/>
+        <updated>2026-05-04T23:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Extravagantly dressed celebrities and designers made their way up the famous Met staircase Monday evening. The fundraiser is one of the fashion industry's biggest nights.]]></summary>
+        <author>
+            <name>Emily Bogle</name>
         </author>
     </entry>
     <entry>
@@ -145,16 +834,6 @@ According to the number of referrals to the national referral mechanism, which a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Economic growth forecast for island of Ireland despite fuel supply turbulence]]></title>
-        <id>b2970351</id>
-        <link href="https://www.independent.co.uk/news/business/middle-east-consumer-spending-northern-ireland-israel-sullivan-b2970351.html"/>
-        <updated>2026-05-04T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[EY has said events in the Middle East had ‘adversely affected’ Ireland’s inflationary outlook.]]></summary>
-        <author>
-            <name>By Grinne N. Aodha</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Around two pubs in Britain closing each day after tax hikes, figures suggest]]></title>
         <id>b2970352</id>
         <link href="https://www.independent.co.uk/news/business/great-britain-british-beer-and-pub-association-government-b2970352.html"/>
@@ -162,6 +841,16 @@ According to the number of referrals to the national referral mechanism, which a
         <summary type="html"><![CDATA[The British Beer and Pub Association warned that the closures equate to the loss of around 2,400 jobs.]]></summary>
         <author>
             <name>Henry Saker-Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economic growth forecast for island of Ireland despite fuel supply turbulence]]></title>
+        <id>b2970351</id>
+        <link href="https://www.independent.co.uk/news/business/middle-east-consumer-spending-northern-ireland-israel-sullivan-b2970351.html"/>
+        <updated>2026-05-04T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[EY has said events in the Middle East had ‘adversely affected’ Ireland’s inflationary outlook.]]></summary>
+        <author>
+            <name>By Grinne N. Aodha</name>
         </author>
     </entry>
     <entry>
@@ -215,11 +904,11 @@ According to the number of referrals to the national referral mechanism, which a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gold Holds Losses on Signs That US-Iran Ceasefire Is Fraying]]></title>
+        <title type="html"><![CDATA[Gold Edges Higher on Dip Buying While Inflation Risks Still Loom]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/gold-holds-losses-on-signs-that-us-iran-ceasefire-is-fraying</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/gold-holds-losses-on-signs-that-us-iran-ceasefire-is-fraying"/>
         <updated>2026-05-04T22:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Gold held a loss as the US and Iran traded fire in the Persian Gulf on Monday, jeopardizing a four-week-old ceasefire and fueling inflation risks.]]></summary>
+        <summary type="html"><![CDATA[Gold edged higher on signs dip buyers stepped into the market after a flare-up in hostilities in the Middle East pushed down prices by 2% on Monday.]]></summary>
         <author>
             <name>Yihui Xie</name>
         </author>
@@ -235,13 +924,13 @@ According to the number of referrals to the national referral mechanism, which a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australian Gold Miner Regis Agrees to Buy Vault Minerals]]></title>
+        <title type="html"><![CDATA[Regis to Buy Vault Minerals to Form $7.7 Billion Gold Miner]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/australian-gold-miner-regis-agrees-to-buy-vault-minerals</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/australian-gold-miner-regis-agrees-to-buy-vault-minerals"/>
         <updated>2026-05-04T22:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Australian gold miner Regis Resources Ltd. agreed to buy Vault Minerals Ltd. in a scheme of arrangement.]]></summary>
+        <summary type="html"><![CDATA[Australian gold miner Regis Resources Ltd. has agreed to buy Vault Minerals Ltd. in an all-share transaction that they said values the combined entity at about A$10.7 billion ($7.7 billion) and will attract a wider range of shareholders.]]></summary>
         <author>
-            <name>Rob Verdonck, Paul-Alain Hunt</name>
+            <name>Paul-Alain Hunt</name>
         </author>
     </entry>
     <entry>
@@ -252,6 +941,16 @@ According to the number of referrals to the national referral mechanism, which a
         <summary type="html"><![CDATA[Through the Biden era, Obama remained a prominent face in the party and one actively sought out by Democrats in tough races]]></summary>
         <author>
             <name>John Bowden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live From the Milken Institute Global Conference | The Close 5/4/2026]]></title>
+        <id>https://www.bloomberg.com/news/videos/2026-05-04/the-close-5-4-2026-video</id>
+        <link href="https://www.bloomberg.com/news/videos/2026-05-04/the-close-5-4-2026-video"/>
+        <updated>2026-05-04T22:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Man Group CEO Robyn Grew, Goldman Sachs’ Marc Nachmann, Allspring Global Investments CEO Kate Burke, Senator Ted Cruz (R-TX), IBM Vice Chairman Gary Cohn, BlackRock’s Joe DeVico, eMed CEO Linda Yaccarino & Fmr. NFL Quarterback Tom Brady, Janus Henderson CEO Ali Dibadj, Pretium CEO Don Mullen, BNY CEO Robin Vince, PIMCO President Christian Stracke, Morgan Stanley’s Dan Simkowitz, Kalshi Board Member Brian Quintenz, Oak Hill Advisors CEO Glenn August, State Street CEO Ron O’Hanley, Spelman College Interim President Roz Brewer, & Guggenheim Partners’ Anne Walsh. (Source: Bloomberg)]]></summary>
+        <author>
+            <name>Bloomberg Technology</name>
         </author>
     </entry>
     <entry>
@@ -268,38 +967,6 @@ State Farm violated the law hundreds of times in a sampling of 220 cases, the st
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Democrats say ‘fight is just beginning’ after supreme court’s temporary reinstatement of abortion pill access – live]]></title>
-        <id>https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates</id>
-        <link href="https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates"/>
-        <updated>2026-05-04T22:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday
-
-Sign up for the Breaking News US email
-
-The supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday.
-This comes after two companies who manufacture mifepristone the drug filed an emergency appeal to the court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.
- Continue reading...]]></summary>
-        <author>
-            <name>Coral Murphy Marcos (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats say ‘fight is just beginning’ after supreme court’s temporary reinstatement of abortion pill access – live]]></title>
-        <id>https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates</id>
-        <link href="https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates"/>
-        <updated>2026-05-04T22:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday
-
-Sign up for the Breaking News US email
-
-The supreme court issued a temporary order to restore access to the abortion pill mifepristone by mail on Monday.
-This comes after two companies who manufacture mifepristone the drug filed an emergency appeal to the court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.
- Continue reading...]]></summary>
-        <author>
-            <name>Coral Murphy Marcos (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Former Citadel Chief Technology Officer Joining Motive Partners]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/former-citadel-chief-technology-officer-joining-motive-partners</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/former-citadel-chief-technology-officer-joining-motive-partners"/>
@@ -310,11 +977,11 @@ This comes after two companies who manufacture mifepristone the drug filed an em
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grab Earnings Top Estimates on Resilient Ride, Delivery Demand]]></title>
+        <title type="html"><![CDATA[Grab to Retool in Indonesia After Abrupt Cut in Ride Commissions]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/grab-earnings-top-estimates-on-resilient-ride-delivery-demand</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/grab-earnings-top-estimates-on-resilient-ride-delivery-demand"/>
         <updated>2026-05-04T22:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Grab Holdings Ltd. reported first-quarter profit that exceeded analysts’ estimates, helped by resilient demand for ride hailing and delivery in a Southeast Asian market rattled by economic and political challenges.]]></summary>
+        <summary type="html"><![CDATA[Grab Holdings Ltd. plans to adjust its Indonesian business after Jakarta’s surprise edict to lower the ride-hailing commissions it can charge, though executives expect the decree to cover just a fraction of its fleet.]]></summary>
         <author>
             <name>Olivia Poh</name>
         </author>
@@ -413,13 +1080,13 @@ The individual was first identified by plainclothes officers, who said he looked
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asian Stocks Set to Edge Down From Record on Iran: Markets Wrap]]></title>
+        <title type="html"><![CDATA[Bond Yields Rise on Iran Tensions, Dollar Gains: Markets Wrap]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/asian-stocks-set-to-fall-as-gulf-tensions-lift-oil-markets-wrap</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/asian-stocks-set-to-fall-as-gulf-tensions-lift-oil-markets-wrap"/>
         <updated>2026-05-04T22:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Asian stocks looked set to retreat from record highs after the US and Iran exchanged fire, jolting a fragile, four-week-old ceasefire and raising concerns that Middle East tensions could escalate again.]]></summary>
+        <summary type="html"><![CDATA[Bond yields rose after the US and Iran exchanged fire, heightening Middle East tensions and stoking inflation concerns. The dollar strengthened.]]></summary>
         <author>
-            <name>Toby Alder</name>
+            <name>Anand Krishnamoorthy</name>
         </author>
     </entry>
     <entry>
@@ -453,11 +1120,11 @@ The individual was first identified by plainclothes officers, who said he looked
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oil Holds Gain as Iran, US Exchange Fire in Middle East Flareup]]></title>
+        <title type="html"><![CDATA[Oil Edges Lower Following Spike as Iran and US Exchange Fire]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/latest-oil-market-news-and-analysis-for-may-5</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/latest-oil-market-news-and-analysis-for-may-5"/>
         <updated>2026-05-04T22:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Oil held the bulk of a sharp gain after tensions flared across the Middle East, with the US and Iran exchanging fire amid renewed attacks on energy infrastructure and vessels in and around the Strait of Hormuz.]]></summary>
+        <summary type="html"><![CDATA[Oil edged lower, paring Monday’s gain, as traders tracked tensions in the Middle East after fresh clashes between the US and Iran.]]></summary>
         <author>
             <name>Nicholas Lua, Mia Gindis</name>
         </author>
@@ -506,26 +1173,6 @@ Norway is the largest farmed salmon producer in the world, and nutrients in fish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Musk and SEC propose to settle Twitter lawsuit for just $1.5mn]]></title>
-        <id>a760cb3e-b949-4120-b637-32e7464227cb</id>
-        <link href="https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb"/>
-        <updated>2026-05-04T21:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Deal would come at a fraction of the amount regulators originally sought from the world’s richest man]]></summary>
-        <author>
-            <name>World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musk and SEC propose to settle Twitter lawsuit for just $1.5mn]]></title>
-        <id>a760cb3e-b949-4120-b637-32e7464227cb</id>
-        <link href="https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb"/>
-        <updated>2026-05-04T21:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Deal would come at a fraction of the amount regulators originally sought from the world’s richest man]]></summary>
-        <author>
-            <name>Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bank of Canada Gov. Macklem Vows Action If Affects From High Energy Prices Spread]]></title>
         <id>WP-WSJ-0003551807</id>
         <link href="https://www.wsj.com/pro/central-banking/bank-of-canada-committed-to-keeping-cpi-close-to-2-gov-macklem-says-c99c9918"/>
@@ -563,22 +1210,6 @@ Norway is the largest farmed salmon producer in the world, and nutrients in fish
         <summary type="html"><![CDATA[Employees will be paid directly for generating business instead of sharing revenue between the group’s units]]></summary>
         <author>
             <name>World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blake Lively and Justin Baldoni settle lawsuit over acrimonious It Ends With Us production]]></title>
-        <id>https://www.theguardian.com/film/2026/may/04/blake-lively-justin-baldoni-settlement-it-ends-with-us</id>
-        <link href="https://www.theguardian.com/film/2026/may/04/blake-lively-justin-baldoni-settlement-it-ends-with-us"/>
-        <updated>2026-05-04T21:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Settlement details were not revealed in the agreement that put an end to a highly anticipated trial before it began
-
-Sign up for the Breaking News US newsletter email 
-
-Blake Lively and Justin Baldoni have settled their legal dispute from the acrimonious production of their 2024 film It Ends With Us, just weeks before a highly anticipated scheduled trial.
-In a joint statement on Monday, legal representatives of both parties said: “The end product – the movie It Ends With Us – is a source of pride to all of us who worked to bring it to life. Raising awareness, and making a meaningful impact in the lives of domestic violence survivors – and all survivors – is a goal that we stand behind.”
- Continue reading...]]></summary>
-        <author>
-            <name>Maya Yang</name>
         </author>
     </entry>
     <entry>
@@ -646,7 +1277,7 @@ In a joint statement on Monday, legal representatives of both parties said: “T
         <id>https://www.bloomberg.com/news/articles/2026-05-04/westpac-profit-misses-estimates-as-ceo-flags-mideast-risks</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/westpac-profit-misses-estimates-as-ceo-flags-mideast-risks"/>
         <updated>2026-05-04T21:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Westpac Banking Corp.’s first-half profit missed expectations as Chief Executive Officer Anthony Miller flagged worries about the impact of the Middle East war on customers.]]></summary>
+        <summary type="html"><![CDATA[Westpac Banking Corp.’s first-half profit missed expectations as Chief Executive Officer Anthony Miller flagged worries about the impact of the Middle East war on customers and the economy.]]></summary>
         <author>
             <name>Richard Henderson</name>
         </author>
@@ -699,22 +1330,6 @@ In a joint statement on Monday, legal representatives of both parties said: “T
         <summary type="html"><![CDATA[Germany’s Merz was insulting, but that’s no reason for Trump to undermine NATO.]]></summary>
         <author>
             <name>The Editorial Board</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop shares fall 10% after CEO skirts questions over eBay acquisition details]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/04/gamestop-ceo-ebay-acquisition</id>
-        <link href="https://www.theguardian.com/technology/2026/may/04/gamestop-ceo-ebay-acquisition"/>
-        <updated>2026-05-04T21:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Ryan Cohen said he didn’t understand questions about how the video games retailer could afford its $55.5bn bid
-
-Sign up for the Breaking News US newsletter email
-
-GameStop’s shares fell more than 10% on Monday as questions emerged about how the company would finance its surprise $55.5bn bid for eBay.
-In an interview with CNBC, Ryan Cohen, GameStop’s CEO, skirted repeated inquiries about how the video games retailer could afford the deal, saying he didn’t understand the questions.
- Continue reading...]]></summary>
-        <author>
-            <name>Gaya Gupta</name>
         </author>
     </entry>
     <entry>
@@ -862,21 +1477,21 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI president defends his motives over for-profit coversion and $30bn stake]]></title>
+        <title type="html"><![CDATA[OpenAI president defends motives in for-profit restructuring as he reveals $30bn stake]]></title>
         <id>5c24fa13-ae43-4d5a-9b68-b6ebae227dce</id>
         <link href="https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce"/>
         <updated>2026-05-04T21:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit brought by Elon Musk accuses start-up’s executives of selling out its charitable mission for personal gain]]></summary>
+        <summary type="html"><![CDATA[Lawsuit brought by Elon Musk accuses start-up’s executives of selling out charitable mission for personal gain]]></summary>
         <author>
             <name>World</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI president defends his motives over for-profit coversion and $30bn stake]]></title>
+        <title type="html"><![CDATA[OpenAI president defends motives in for-profit restructuring as he reveals $30bn stake]]></title>
         <id>5c24fa13-ae43-4d5a-9b68-b6ebae227dce</id>
         <link href="https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce"/>
         <updated>2026-05-04T21:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit brought by Elon Musk accuses start-up’s executives of selling out its charitable mission for personal gain]]></summary>
+        <summary type="html"><![CDATA[Lawsuit brought by Elon Musk accuses start-up’s executives of selling out charitable mission for personal gain]]></summary>
         <author>
             <name>Technology</name>
         </author>
@@ -949,6 +1564,16 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         <summary type="html"><![CDATA[The stalemate with Ukraine isn’t the only failure draining Moscow’s resources.]]></summary>
         <author>
             <name>Walter Russell Mead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz]]></title>
+        <id>WP-WSJ-0003550653</id>
+        <link href="https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b"/>
+        <updated>2026-05-04T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[U.S. warships muscled into the strait, sinking fast-attack boats that targeted ships as Iran struck tankers and the U.A.E.]]></summary>
+        <author>
+            <name>Costas Paris</name>
         </author>
     </entry>
     <entry>
@@ -1102,16 +1727,6 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sheinbaum Unveils Plan to Attract Investment as Economy Sags]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/sheinbaum-unveils-plan-to-attract-investment-as-economy-sags</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/sheinbaum-unveils-plan-to-attract-investment-as-economy-sags"/>
-        <updated>2026-05-04T20:44:27.000Z</updated>
-        <summary type="html"><![CDATA[President Claudia Sheinbaum’s government unveiled plans meant to increase private investment into Mexico as she seeks to kickstart an economy that contracted to start the year.]]></summary>
-        <author>
-            <name>Gonzalo Soto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Man to plead guilty in Colorado firebombing attack on pro-Israel demonstrators]]></title>
         <id>b2970295</id>
         <link href="https://www.independent.co.uk/news/world/americas/colorado-gaza-boulder-associated-press-police-b2970295.html"/>
@@ -1149,16 +1764,6 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         <summary type="html"><![CDATA[Police clashed with protesters outside a New York hospital where a man arrested by ICE agents was being treated.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evacuations imminent for more sick cruise ship passengers after hantavirus outbreak leaves three dead: Live updates]]></title>
-        <id>b2969914</id>
-        <link href="https://www.independent.co.uk/news/world/europe/hantavirus-outbreak-atlantic-cruise-ship-live-updates-b2969914.html"/>
-        <updated>2026-05-04T20:38:48.000Z</updated>
-        <summary type="html"><![CDATA[‘There is a lot of uncertainty and that is the hardest part,’ American travel blogger Jake Rosmarin, who is aboard the ship, said on Monday]]></summary>
-        <author>
-            <name>Stuti Mishra,Simon Calder and Maryam Zakir-Hussain</name>
         </author>
     </entry>
     <entry>
@@ -1202,11 +1807,11 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Says He Looks Forward to Xi Summit Even as Tensions Mount]]></title>
+        <title type="html"><![CDATA[Trump Says He Looks Forward to Xi Summit as Tensions Mount]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/trump-says-he-looks-forward-to-xi-summit-even-as-tensions-mount</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/trump-says-he-looks-forward-to-xi-summit-even-as-tensions-mount"/>
         <updated>2026-05-04T20:30:08.000Z</updated>
-        <summary type="html"><![CDATA[President Donald Trump said he’s looking forward to meeting Chinese counterpart Xi Jinping, signaling that his plans for the high-stakes summit are still on despite fresh tensions between the world’s two largest economies.]]></summary>
+        <summary type="html"><![CDATA[President Donald Trump said he’s looking forward to meeting Chinese counterpart Xi Jinping, signaling his plans for the high-stakes summit are still on despite fresh tensions between the world’s largest economies.]]></summary>
         <author>
             <name>Catherine Lucey</name>
         </author>
@@ -1249,6 +1854,16 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         <summary type="html"><![CDATA[Dolly Parton has canceled her previously postponed Las Vegas residency due to health challenges]]></summary>
         <author>
             <name>Maria Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret Service Agents Exchange Fire With Gunman Near Washington Monument]]></title>
+        <id>https://www.bloomberg.com/en/news/thp/2026-05-04/urgent-person-shot-by-law-enforcement-near-washington-monument-secret-service-says</id>
+        <link href="https://www.bloomberg.com/en/news/thp/2026-05-04/urgent-person-shot-by-law-enforcement-near-washington-monument-secret-service-says"/>
+        <updated>2026-05-04T20:23:17.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON (AP) — A man spotted carrying a gun in the vicinity of the White House by plainclothes officers and agents was shot by law enforcement Monday after he opened fire on them near the Washington Monument, the Secret Service said.]]></summary>
+        <author>
+            <name>Bloomberg Politics</name>
         </author>
     </entry>
     <entry>
@@ -1360,26 +1975,6 @@ Three people died during the rescue effort as volunteers went to the aid of a ya
         <summary type="html"><![CDATA[Palantir Technologies Inc. raised its revenue outlook for the year and beat analyst forecasts, offering a bullish forecast for a polarizing company at the nexus of debates over data, surveillance and artificial intelligence-enabled warfare.]]></summary>
         <author>
             <name>Katrina Manson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretium CEO: Capital for Home Construction is Drying up]]></title>
-        <id>https://www.bloomberg.com/news/videos/2026-05-04/pretium-ceo-capital-for-home-construction-is-drying-up-video</id>
-        <link href="https://www.bloomberg.com/news/videos/2026-05-04/pretium-ceo-capital-for-home-construction-is-drying-up-video"/>
-        <updated>2026-05-04T20:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Pretium CEO Don Mullen discusses the impacts of the 21st Century Road to Housing Act, home construction capital drying up, and the need to speed up homebuilding. He talks with Katie Greifeld and Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)]]></summary>
-        <author>
-            <name>Bloomberg Markets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Investigating Alleged Fraud in Private Credit, Atkins Says]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/sec-investigating-alleged-fraud-in-private-credit-atkins-says</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/sec-investigating-alleged-fraud-in-private-credit-atkins-says"/>
-        <updated>2026-05-04T20:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Securities and Exchange Commission Chairman Paul Atkins said the agency is investigating allegations of fraud in private credit firms, though he declined to say specifically which companies are under scrutiny.]]></summary>
-        <author>
-            <name>Lydia Beyoud</name>
         </author>
     </entry>
     <entry>
@@ -1705,24 +2300,6 @@ The US operation, which got under way on Monday after being announced as “Proj
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Victoria state budget 2026: state back in black and forecasting two back-to-back surpluses]]></title>
-        <id>https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus</id>
-        <link href="https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus"/>
-        <updated>2026-05-04T19:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Labor’s 2026-27 budget shows state has recorded a $700m surplus this financial year, the first since before the Covid-19 pandemic
-
-Follow our Australia news live blog for latest updates
-
-Get our breaking news email, free app or daily news podcast
-
-Victoria is back in black for the first time since the start of the Covid pandemic, with Tuesday’s state budget to deliver an operating surplus and forecasting another next financial year.
-The 2026-27 budget, to be handed down on Tuesday afternoon, will show the state recorded a $700m surplus in 2025-26, largely in line with December’s pre-budget update of $710m and an improvement on the $611m forecast last May.
- Continue reading...]]></summary>
-        <author>
-            <name>Benita Kolovos Victorian state correspondent</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump Is Imposing Economic Pain on Iran, Cruz Says]]></title>
         <id>https://www.bloomberg.com/news/videos/2026-05-04/trump-is-imposing-economic-pain-on-iran-cruz-says-video</id>
         <link href="https://www.bloomberg.com/news/videos/2026-05-04/trump-is-imposing-economic-pain-on-iran-cruz-says-video"/>
@@ -1796,16 +2373,6 @@ Several, however, told the Guardian that even with the prime minister’s determ
         <summary type="html"><![CDATA[Government calls for partnership not aid as it rejects US funds due to strategic autonomy concerns.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ’s Pirro Asks Judge to Toss Earlier Ruling on Fed Subpoenas]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/doj-s-pirro-asks-judge-to-toss-earlier-ruling-on-fed-subpoenas</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/doj-s-pirro-asks-judge-to-toss-earlier-ruling-on-fed-subpoenas"/>
-        <updated>2026-05-04T18:49:56.000Z</updated>
-        <summary type="html"><![CDATA[The US Justice Department has asked a federal judge to throw out his ruling that blocked prosecutors from using grand jury subpoenas during their investigation into building-cost overruns by the Federal Reserve.]]></summary>
-        <author>
-            <name>Chris Strohm</name>
         </author>
     </entry>
     <entry>
@@ -1901,7 +2468,7 @@ The prime minister, who said the UK’s involvement in the recovery loan plan wo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US and Iran exchange fire as Hormuz crisis reignites]]></title>
+        <title type="html"><![CDATA[Middle East crisis day 66 as it happened: US and Iran exchange fire as Strait of Hormuz crisis reignites]]></title>
         <id>7b035a5b-fa45-471d-a296-7642e1758b10</id>
         <link href="https://www.ft.com/content/7b035a5b-fa45-471d-a296-7642e1758b10"/>
         <updated>2026-05-04T18:36:46.000Z</updated>
@@ -1911,7 +2478,7 @@ The prime minister, who said the UK’s involvement in the recovery loan plan wo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US and Iran exchange fire as Hormuz crisis reignites]]></title>
+        <title type="html"><![CDATA[Middle East crisis day 66 as it happened: US and Iran exchange fire as Strait of Hormuz crisis reignites]]></title>
         <id>7b035a5b-fa45-471d-a296-7642e1758b10</id>
         <link href="https://www.ft.com/content/7b035a5b-fa45-471d-a296-7642e1758b10"/>
         <updated>2026-05-04T18:36:46.000Z</updated>
@@ -1938,16 +2505,6 @@ The prime minister, who said the UK’s involvement in the recovery loan plan wo
         <summary type="html"><![CDATA[US Secretary of Housing and Urban Development Scott Turner discusses affordability and government efforts to cut regulation. He speaks with Bloomberg Balance of Power co-host Joe Mathieu from the Milken Institute Global Conference in Los Angeles.   (Source: Bloomberg)]]></summary>
         <author>
             <name>Bloomberg Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US, Iran Trade Fire, US Helped Two Ships Through Hormuz Strait]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-05-04/us-iran-trade-fire-us-helped-two-ships-through-hormuz-strait</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-05-04/us-iran-trade-fire-us-helped-two-ships-through-hormuz-strait"/>
-        <updated>2026-05-04T18:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Source: Bloomberg, 4:56]]></summary>
-        <author>
-            <name>Bloomberg.com</name>
         </author>
     </entry>
     <entry>
@@ -1991,19 +2548,6 @@ The prime minister, who said the UK’s involvement in the recovery loan plan wo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rapper Kid Cudi fires MIA from tour after ‘offensive’ Republican rant]]></title>
-        <id>https://www.theguardian.com/music/2026/may/04/kid-cudi-fires-mia-tour-republican-rant</id>
-        <link href="https://www.theguardian.com/music/2026/may/04/kid-cudi-fires-mia-tour-republican-rant"/>
-        <updated>2026-05-04T18:19:14.000Z</updated>
-        <summary type="html"><![CDATA[The British artist was booed after identifying as a Republican voter while on stage in Dallas
-Rapper Kid Cudi has fired MIA from his tour after the British artist went on a rant that went viral while on stage in Dallas.
-While opening up for the hip-hop artist on 2 May, MIA was booed after saying, “I’ve been canceled for many reasons. I never thought I would be canceled for being a brown Republican voter,” as reported by Variety.
- Continue reading...]]></summary>
-        <author>
-            <name>Owen Myers</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Investor Haun Raises $1 Billion for New Funds]]></title>
         <id>https://www.bloomberg.com/news/videos/2026-05-04/crypto-investor-haun-raises-1-billion-for-new-funds-video</id>
         <link href="https://www.bloomberg.com/news/videos/2026-05-04/crypto-investor-haun-raises-1-billion-for-new-funds-video"/>
@@ -2014,16 +2558,6 @@ While opening up for the hip-hop artist on 2 May, MIA was booed after saying, �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloomberg Talks: Mike Wirth (Podcast)]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-talks-mike-wirth-podcast</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-talks-mike-wirth-podcast"/>
-        <updated>2026-05-04T18:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Source: Bloomberg, 6:31]]></summary>
-        <author>
-            <name>Bloomberg.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shipping Security in Hormuz Is a Concern, Chevron CEO Says]]></title>
         <id>https://www.bloomberg.com/news/videos/2026-05-04/global-oil-supplies-are-tightening-chevron-ceo-says-video</id>
         <link href="https://www.bloomberg.com/news/videos/2026-05-04/global-oil-supplies-are-tightening-chevron-ceo-says-video"/>
@@ -2031,16 +2565,6 @@ While opening up for the hip-hop artist on 2 May, MIA was booed after saying, �
         <summary type="html"><![CDATA[Chevron CEO Mike Wirth has told the Trump administration that global oil supplies are “tightening” due to the Strait of Hormuz closure. He speaks to Bloomberg Television at the annual Milken Institute Global Conference in Beverly Hills. (Source: Bloomberg)]]></summary>
         <author>
             <name>Bloomberg Politics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop Doesn’t Have Enough Stock]]></title>
-        <id>https://www.bloomberg.com/opinion/newsletters/2026-05-04/gamestop-doesn-t-have-enough-stock</id>
-        <link href="https://www.bloomberg.com/opinion/newsletters/2026-05-04/gamestop-doesn-t-have-enough-stock"/>
-        <updated>2026-05-04T18:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Authorized shares, pay package adjustments, prediction market making and play-money casinos.]]></summary>
-        <author>
-            <name>Matthew S Levine</name>
         </author>
     </entry>
     <entry>
@@ -2081,19 +2605,6 @@ While opening up for the hip-hop artist on 2 May, MIA was booed after saying, �
         <summary type="html"><![CDATA[Ukraine’s Volodymyr Zelensky said he is yet to receive any official proposal of a ceasefire]]></summary>
         <author>
             <name>Maryam Zakir-Hussain and Shweta Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louisiana Republicans eliminate elected office won by Democratic exoneree]]></title>
-        <id>https://www.theguardian.com/us-news/2026/may/04/louisiana-republicans-eliminate-office-democratic-exoneree</id>
-        <link href="https://www.theguardian.com/us-news/2026/may/04/louisiana-republicans-eliminate-office-democratic-exoneree"/>
-        <updated>2026-05-04T17:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Future of Calvin Duncan’s position as the clerk of New Orleans’ criminal district courthouse remains unclear
-Louisiana Republicans eliminated an elected position days before a Democratic exoneree who overwhelmingly won the New Orleans-based post was set to take office on Monday.
-A temporary restraining order did allow Calvin Duncan, the exonerated man, to take office as scheduled on Monday morning as the clerk of New Orleans’ criminal district courthouse. But things soon turned administratively messy for Duncan when that order was frozen by the US fifth circuit court of appeals.
- Continue reading...]]></summary>
-        <author>
-            <name>Guardian staff and agencies</name>
         </author>
     </entry>
     <entry>
@@ -2170,16 +2681,6 @@ At least two people have been killed and several injured after a driver in an SU
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comex Gold Settles 2.38% Lower at $4519.50]]></title>
-        <id>WP-WSJ-0003549788</id>
-        <link href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-signs-of-resilience-627248e3?mod=rss_markets_main"/>
-        <updated>2026-05-04T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Gold settled 2.4% lower and silver fell 3.8%, with both metals snapping a two-session winning streak.]]></summary>
-        <author>
-            <name>WSJ.com: Markets</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECB Could Hike Rates in June Should Inflation Outlook Not Improve, Nagel Says]]></title>
         <id>WP-WSJ-0003551471</id>
         <link href="https://www.wsj.com/economy/central-banking/ecb-could-hike-rates-in-june-should-inflation-outlook-not-improve-nagel-says-66a4538e"/>
@@ -2210,16 +2711,6 @@ It is the first time that the Indian prime minister’s Bharatiya Janata party (
         <summary type="html"><![CDATA[Apple Inc. is preparing a new “Create a Pass” feature for its next major iPhone software update, allowing users to build and customize their own digital tickets and gift cards within the Wallet app.]]></summary>
         <author>
             <name>Mark Gurman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abortion Pill Ban on Hold, CENTCOM: US 'Free Lane' in Hormuz]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-05-04/abortion-pill-ban-on-hold-centcom-us-free-lane-in-hormuz</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-05-04/abortion-pill-ban-on-hold-centcom-us-free-lane-in-hormuz"/>
-        <updated>2026-05-04T17:34:01.000Z</updated>
-        <summary type="html"><![CDATA[Source: Bloomberg, 5:14]]></summary>
-        <author>
-            <name>Bloomberg.com</name>
         </author>
     </entry>
     <entry>
@@ -2263,78 +2754,6 @@ It is the first time that the Indian prime minister’s Bharatiya Janata party (
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iran-US war latest: US claims it has sunk six Iranian small boats as tensions rise in Strait of Hormuz]]></title>
-        <id>b2969916</id>
-        <link href="https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-blockade-oil-b2969916.html"/>
-        <updated>2026-05-04T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[The US president vowed to free commercial ships stranded in the waterway as part of so-called ‘Project Freedom’]]></summary>
-        <author>
-            <name>Alex Croft and Bryony Gooch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak]]></title>
-        <id>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</id>
-        <link href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"/>
-        <updated>2026-05-04T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[WHO confirms seven cases of virus on MV Hondius after deaths of three passengers and four others left ill 
-
-What is hantavirus, the infection thought to have killed three on cruise ship?
-
-Medics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after an outbreak of a rare respiratory virus killed three people, left four others ill and forced nearly 150 people from across the world to isolate onboard.
-The plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.
- Continue reading...]]></summary>
-        <author>
-            <name>Ashifa Kassam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak]]></title>
-        <id>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</id>
-        <link href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"/>
-        <updated>2026-05-04T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[WHO confirms seven cases of virus on MV Hondius after deaths of three passengers and four others left ill 
-
-What is hantavirus, the infection thought to have killed three on cruise ship?
-
-Medics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after an outbreak of a rare respiratory virus killed three people, left four others ill and forced nearly 150 people from across the world to isolate onboard.
-The plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization (WHO) said it was investigating a suspected outbreak.
- Continue reading...]]></summary>
-        <author>
-            <name>Ashifa Kassam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloomberg Tech: GameStop’s $56 Billion Bid for eBay (Podcast)]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-tech-gamestop-s-56-billion-bid-for-ebay-podcast</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-tech-gamestop-s-56-billion-bid-for-ebay-podcast"/>
-        <updated>2026-05-04T17:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Source: Bloomberg, 0:00]]></summary>
-        <author>
-            <name>Bloomberg.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloomberg Talks: Bill Ackman (Podcast)]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-talks-bill-ackman-podcast</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-05-04/bloomberg-talks-bill-ackman-podcast"/>
-        <updated>2026-05-04T17:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Source: Bloomberg, 13:44]]></summary>
-        <author>
-            <name>Bloomberg.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Hires Morgan Stanley’s Boyle to Lead PE Secondaries]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/jpmorgan-hires-morgan-stanley-s-boyle-to-lead-pe-secondaries</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/jpmorgan-hires-morgan-stanley-s-boyle-to-lead-pe-secondaries"/>
-        <updated>2026-05-04T17:05:47.000Z</updated>
-        <summary type="html"><![CDATA[JPMorgan Chase & Co. hired Will Boyle from Morgan Stanley to lead its team that advises private equity firms on structuring private deals, as the bank looks to build out its capital advisory business for sponsors.]]></summary>
-        <author>
-            <name>Bailey Lipschultz, Anthony Hughes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ebay weighs GameStop’s unsolicited $56bn offer for online marketplace]]></title>
         <id>31bfd02e-a02e-45fd-ad46-51544b1a3a8a</id>
         <link href="https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a"/>
@@ -2355,16 +2774,6 @@ The plight of the MV Hondius, which set off in March from southern Argentina car
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ackman Talks Succession Plan, Universal Music Bid and Mamdani]]></title>
-        <id>https://www.bloomberg.com/news/videos/2026-05-04/ackman-talks-succession-universal-music-bid-and-mamdani-video</id>
-        <link href="https://www.bloomberg.com/news/videos/2026-05-04/ackman-talks-succession-universal-music-bid-and-mamdani-video"/>
-        <updated>2026-05-04T17:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Pershing Square founder and CEO Bill Ackman says succession at the company is already in place. Speaking with Bloomberg's Dani Burger at the Milken Institute Global Conference in Beverly Hills, California, Ackman also discusses his bid for Universal Music Group, the rise of prediction markets and offers his views on New York City Mayor Zohran Mamdani. (Source: Bloomberg)]]></summary>
-        <author>
-            <name>Bloomberg Politics</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump rips into ‘crying like a baby’ CNN mainstay for calling him a ‘Dictator’ — a year ago]]></title>
         <id>b2970180</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/cnn-trump-van-jones-dictator-b2970180.html"/>
@@ -2372,16 +2781,6 @@ The plight of the MV Hondius, which set off in March from southern Argentina car
         <summary type="html"><![CDATA[Trump renews war with CNN and Van Jones over old criticsm]]></summary>
         <author>
             <name>John Bowden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop Makes $56 Billion Bid for eBay]]></title>
-        <id>https://www.bloomberg.com/news/videos/2026-05-04/gamestop-makes-56-billion-bid-for-ebay-video</id>
-        <link href="https://www.bloomberg.com/news/videos/2026-05-04/gamestop-makes-56-billion-bid-for-ebay-video"/>
-        <updated>2026-05-04T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[GameStop Corp. is trying to buy eBay Inc. for about $56 billion in cash and stock, a bold attempt by Ryan Cohen to take over a storied e-commerce name several times larger. Bloomberg's Spencer Soper joins Bloomberg Intelligence to discuss. (Source: Bloomberg)]]></summary>
-        <author>
-            <name>Bloomberg Technology</name>
         </author>
     </entry>
     <entry>
@@ -2448,16 +2847,6 @@ Trump spent a long weekend in Florida banging the war drum. Iran had not “paid
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s Outlook Boosted by High-Income Demand with Julie Ask]]></title>
-        <id>https://www.bloomberg.com/news/videos/2026-05-04/apple-s-outlook-boosted-by-high-income-demand-video</id>
-        <link href="https://www.bloomberg.com/news/videos/2026-05-04/apple-s-outlook-boosted-by-high-income-demand-video"/>
-        <updated>2026-05-04T16:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Julie Ask, a tech futurist and advisor specializing in consumer behavior, discusses the robust demand for Apple products among the company's affluent customer base. She highlights that despite broader market challenges, high-income consumers remain eager to purchase key Apple devices such as the iPhone, iPad, and Mac. (Source: Bloomberg)]]></summary>
-        <author>
-            <name>Bloomberg Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Man and woman arrested on suspicion of arson after fire at Golders Green memorial wall]]></title>
         <id>b2970149</id>
         <link href="https://www.independent.co.uk/news/uk/crime/golders-green-memorial-wall-fire-arrest-latest-b2970149.html"/>
@@ -2475,26 +2864,6 @@ Trump spent a long weekend in Florida banging the war drum. Iran had not “paid
         <summary type="html"><![CDATA[Marjorie Taylor Greene’s jab at the embattled FBI director comes amid reports the White House is openly discussing firing him]]></summary>
         <author>
             <name>Owen Scott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germany Looks to Plug Gaps in Defenses If US Drops Missile Plan]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/germany-looks-to-plug-gaps-in-defenses-if-us-drops-missile-plan</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/germany-looks-to-plug-gaps-in-defenses-if-us-drops-missile-plan"/>
-        <updated>2026-05-04T16:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Germany is assessing how to fill a potential defense gap if the US scales back missile deployments in Europe, warning it could weaken NATO’s deterrence against Russia.]]></summary>
-        <author>
-            <name>Michael Nienaber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Has Opened a Passage Through Hormuz, Central Command Says]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/us-has-opened-a-passage-through-hormuz-central-command-says</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/us-has-opened-a-passage-through-hormuz-central-command-says"/>
-        <updated>2026-05-04T16:31:35.000Z</updated>
-        <summary type="html"><![CDATA[The US military helped two American-flagged ships go through the Strait of Hormuz as part of a broader effort to open a lane through the vital waterway, the commander of US Central Command told reporters.]]></summary>
-        <author>
-            <name>Courtney McBride, Anthony Capaccio</name>
         </author>
     </entry>
     <entry>
@@ -2538,26 +2907,6 @@ Trump spent a long weekend in Florida banging the war drum. Iran had not “paid
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GameStop targets eBay with unsolicited $56bn acquisition offer]]></title>
-        <id>https://www.aljazeera.com/?t=1777906103</id>
-        <link href="https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer?traffic_source=rss"/>
-        <updated>2026-05-04T16:23:41.000Z</updated>
-        <summary type="html"><![CDATA[eBay confirms receiving GameStop's offer, with no prior discussions between the companies]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apollo’s Zito Calls Credit Safer Bet in High-Volatility Times]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/apollo-s-zito-calls-credit-safer-bet-in-high-volatility-regime</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/apollo-s-zito-calls-credit-safer-bet-in-high-volatility-regime"/>
-        <updated>2026-05-04T16:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Apollo Global Management Inc.’s John Zito argued private credit is the safer place for investors to be even as the rise of artificial intelligence is dramatically shifting the environment for “the whole ecosystem of investing.”]]></summary>
-        <author>
-            <name>Preeti Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apollo’s Zito Calls Credit Safer Bet in High-Volatility Times]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/apollo-s-zito-calls-credit-safer-bet-in-high-volatility-regime</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/apollo-s-zito-calls-credit-safer-bet-in-high-volatility-regime"/>
@@ -2595,16 +2944,6 @@ Trump spent a long weekend in Florida banging the war drum. Iran had not “paid
         <summary type="html"><![CDATA[The longer the Strait of Hormuz blockade continues, the more likely a crisis-like adjustment in rich economies becomes]]></summary>
         <author>
             <name>Markets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan Official Cites Rule on Multiple Interventions Being One]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/japan-official-cites-rule-on-multiple-interventions-being-one</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/japan-official-cites-rule-on-multiple-interventions-being-one"/>
-        <updated>2026-05-04T16:14:12.000Z</updated>
-        <summary type="html"><![CDATA[As currency traders continue to watch for potential Japanese moves to buy the yen, a Finance Ministry official from the nation on Monday cited a rule saying that three days of intervention count as a single operation.]]></summary>
-        <author>
-            <name>Erica Yokoyama</name>
         </author>
     </entry>
     <entry>
@@ -2719,16 +3058,6 @@ Trump wrote on Monday that the US navy would “guide” stranded ships out of t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lebanon Latest]]></title>
-        <id>https://www.aljazeera.com/?t=1777910368</id>
-        <link href="https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss"/>
-        <updated>2026-05-04T16:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Israel intensifies airstrikes]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump closes DC’s busiest golf course]]></title>
         <id>b2969858</id>
         <link href="https://www.independent.co.uk/news/world/americas/dc-east-potomac-golf-links-closed-trump-b2970175.html"/>
@@ -2782,19 +3111,6 @@ Alice Chapman and Zak Khan were among 180 members of the Global Sumud flotilla d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse]]></title>
-        <id>https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse</id>
-        <link href="https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse"/>
-        <updated>2026-05-04T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Alice Chapman and Zak Khan say they were beaten, kicked and spat on after detention near Crete last week
-Two British activists have said they were admitted to hospital after being beaten by Israeli forces who intercepted their Gaza aid flotilla last week.
-Alice Chapman and Zak Khan were among 180 members of the Global Sumud flotilla detained by the Israel Defense Forces (IDF) in international waters near Crete late on Wednesday.
- Continue reading...]]></summary>
-        <author>
-            <name>Kevin Rawlinson and Matty Edwards</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows]]></title>
         <id>https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study</id>
         <link href="https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study"/>
@@ -2808,6 +3124,19 @@ AI platforms are more likely to reference Nigel Farage than any other UK leader 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse]]></title>
+        <id>https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse</id>
+        <link href="https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse"/>
+        <updated>2026-05-04T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Alice Chapman and Zak Khan say they were beaten, kicked and spat on after detention near Crete last week
+Two British activists have said they were admitted to hospital after being beaten by Israeli forces who intercepted their Gaza aid flotilla last week.
+Alice Chapman and Zak Khan were among 180 members of the Global Sumud flotilla detained by the Israel Defense Forces (IDF) in international waters near Crete late on Wednesday.
+ Continue reading...]]></summary>
+        <author>
+            <name>Kevin Rawlinson and Matty Edwards</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rudy Giuliani spokesman gives update on his condition as he remains hospitalized]]></title>
         <id>b2970170</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/rudy-giuliani-health-hospital-update-b2970170.html"/>
@@ -2815,16 +3144,6 @@ AI platforms are more likely to reference Nigel Farage than any other UK leader 
         <summary type="html"><![CDATA[The 81-year-old former NYC mayor being monitored as a ‘precautionary measure’ and is breathing on his own, spokesman says]]></summary>
         <author>
             <name>Alex Woodward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US releases Touska container ship crew: Why it matters]]></title>
-        <id>https://www.aljazeera.com/?t=1777898422</id>
-        <link href="https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss"/>
-        <updated>2026-05-04T15:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Pakistan said the release of the crew members reflected a 'confidence-building measure' between Tehran and Washington.]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -2838,16 +3157,6 @@ Heidi Alexander, the transport secretary, said at the weekend that part of the a
  Continue reading...]]></summary>
         <author>
             <name>Daniel Boffey Chief reporter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz]]></title>
-        <id>https://www.aljazeera.com/?t=1777902836</id>
-        <link href="https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss"/>
-        <updated>2026-05-04T15:55:38.000Z</updated>
-        <summary type="html"><![CDATA[Scott Bessent says US has 'absolute control' of Hormuz, but calls on China to 'step up' with diplomacy to reopen strait.]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -2878,18 +3187,6 @@ Heidi Alexander, the transport secretary, said at the weekend that part of the a
         <summary type="html"><![CDATA[Amazon.com Inc. unveiled a suite of logistics services that will let businesses buy its existing freight and distribution offerings as a package, sending shares of rival delivery companies such as FedEx Corp. and United Parcel Service Inc. lower.]]></summary>
         <author>
             <name>Matt Day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modi’s BJP Sees Milestone Win in State Election]]></title>
-        <id>https://www.bloomberg.com/news/videos/2026-05-04/modi-s-bjp-sees-milestone-win-in-state-election-video</id>
-        <link href="https://www.bloomberg.com/news/videos/2026-05-04/modi-s-bjp-sees-milestone-win-in-state-election-video"/>
-        <updated>2026-05-04T15:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Indian PM Narendra Modi’s party has secured its first-ever election victory in the eastern Indian state of West Bengal.
-
-The victory bolsters Modi’s standing as the nation’s most popular leader and expands the BJP's support base across the country. (Source: Bloomberg)]]></summary>
-        <author>
-            <name>Bloomberg Politics</name>
         </author>
     </entry>
     <entry>
@@ -2933,16 +3230,6 @@ The victory bolsters Modi’s standing as the nation’s most popular leader and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Ends Visa Freeze That Exacerbated Foreign Doctor Shortage]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/trump-ends-visa-freeze-that-exacerbated-foreign-doctor-shortage</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/trump-ends-visa-freeze-that-exacerbated-foreign-doctor-shortage"/>
-        <updated>2026-05-04T15:44:59.000Z</updated>
-        <summary type="html"><![CDATA[The Trump administration lifted a visa processing freeze for foreign physicians, ending a months-long halt that had sidelined thousands of doctors and exacerbated staffing shortages at hospitals across the country.]]></summary>
-        <author>
-            <name>Myles Miller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump family crypto venture sues major backer for defamation]]></title>
         <id>4c68055a-263f-4237-95c6-44fc77faad21</id>
         <link href="https://www.ft.com/content/4c68055a-263f-4237-95c6-44fc77faad21"/>
@@ -2963,16 +3250,6 @@ The victory bolsters Modi’s standing as the nation’s most popular leader and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UAE reports missile and drone strikes incoming from Iran]]></title>
-        <id>https://www.aljazeera.com/?t=1777908411</id>
-        <link href="https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss"/>
-        <updated>2026-05-04T15:37:11.000Z</updated>
-        <summary type="html"><![CDATA[No immediate reports of casualties, no immediate comment from ‌Iran.]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heineken to boost British pubs with £44 million investment before World Cup]]></title>
         <id>b2969779</id>
         <link href="https://www.independent.co.uk/news/business/heineken-uk-pubs-investment-2026-world-cup-b2970153.html"/>
@@ -2983,6 +3260,16 @@ The victory bolsters Modi’s standing as the nation’s most popular leader and
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Modi Clinches Big Wins as Opponents Ousted in State Polls]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-04/modi-proves-unstoppable-as-key-opponents-ousted-in-state-polls</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-04/modi-proves-unstoppable-as-key-opponents-ousted-in-state-polls"/>
+        <updated>2026-05-04T15:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, Indian Prime Minister Narendra Modi was dealt a humbling blow in national elections, failing to win a majority for the first time since he came to power.]]></summary>
+        <author>
+            <name>Rajesh Roy, Sudhi Ranjan Sen, Shruti Srivastava</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gamestop’s Ryan Cohen is either the new Buffett or the anti-Buffett]]></title>
         <id>a18c4115-7178-456c-a7ff-4b0e7f9ec9aa</id>
         <link href="https://www.ft.com/content/a18c4115-7178-456c-a7ff-4b0e7f9ec9aa"/>
@@ -2990,16 +3277,6 @@ The victory bolsters Modi’s standing as the nation’s most popular leader and
         <summary type="html"><![CDATA[Pandemic meme stock’s boss today runs a pile of cash more than a company]]></summary>
         <author>
             <name>World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’]]></title>
-        <id>https://www.aljazeera.com/?t=1777883270</id>
-        <link href="https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss"/>
-        <updated>2026-05-04T15:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Data from satellites shows how Sudan's war devastated its farming heartland, triggering a unprecedented hunger crisis.]]></summary>
-        <author>
-            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -3047,24 +3324,6 @@ The employment tribunal, which begins on Tuesday and is set to run until 2 June,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds]]></title>
-        <id>https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years</id>
-        <link href="https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years"/>
-        <updated>2026-05-04T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Job-ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000
-
-Follow our Australia news live blog for latest updates
-
-Get our breaking news email, free app or daily news podcast
-
-One in four humanities students will take more than 25 years to fully repay their student loans because of Morrison government changes to university fees, newly public Treasury modelling reveals.
-The job-ready graduates program, introduced in 2021 under the former prime minister Scott Morrison, will also leave almost two-thirds of humanities and creative arts students saddled with debts exceeding $50,000.
- Continue reading...]]></summary>
-        <author>
-            <name>Krishani Dhanji</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peter Thiel backs $1bn ocean data centre start-up powered by waves]]></title>
         <id>711ce313-16fb-4a12-b6be-fbed547c8a39</id>
         <link href="https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39"/>
@@ -3085,41 +3344,21 @@ The job-ready graduates program, introduced in 2021 under the former prime minis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supreme Court for Now Restores Abortion Pill Access by Mail]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/supreme-court-pauses-ruling-that-restricts-abortion-pill-by-mail</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/supreme-court-pauses-ruling-that-restricts-abortion-pill-by-mail"/>
-        <updated>2026-05-04T14:54:35.000Z</updated>
-        <summary type="html"><![CDATA[The US Supreme Court temporarily restored the ability of patients to get a widely used abortion pill by mail, pausing a ruling that required people to visit a healthcare provider.]]></summary>
-        <author>
-            <name>Greg Stohr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supreme Court for Now Restores Abortion Pill Access by Mail]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/supreme-court-pauses-ruling-that-restricts-abortion-pill-by-mail</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/supreme-court-pauses-ruling-that-restricts-abortion-pill-by-mail"/>
-        <updated>2026-05-04T14:54:35.000Z</updated>
-        <summary type="html"><![CDATA[The US Supreme Court temporarily restored the ability of patients to get a widely used abortion pill by mail, pausing a ruling that required people to visit a healthcare provider.]]></summary>
-        <author>
-            <name>Greg Stohr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Ceasefire]]></title>
+        <title type="html"><![CDATA[US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Truce]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/uae-issues-missile-warning-as-rising-tensions-risk-us-iran-truce</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/uae-issues-missile-warning-as-rising-tensions-risk-us-iran-truce"/>
         <updated>2026-05-04T14:46:15.000Z</updated>
-        <summary type="html"><![CDATA[The US and Iran exchanged fire in the Persian Gulf in a flareup of violence on Monday that also drew in the United Arab Emirates, prompting calls for renewed strikes on Iranian targets and casting doubt on the fate of a four-week ceasefire.]]></summary>
+        <summary type="html"><![CDATA[The US and Iran exchanged fire in a flareup of violence on Monday that also drew in the United Arab Emirates, prompting calls for renewed strikes on Iranian targets and casting doubt on the fate of a four-week ceasefire.]]></summary>
         <author>
             <name>Courtney McBride, Anthony Capaccio, Catherine Lucey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Ceasefire]]></title>
+        <title type="html"><![CDATA[US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Truce]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/uae-issues-missile-warning-as-rising-tensions-risk-us-iran-truce</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/uae-issues-missile-warning-as-rising-tensions-risk-us-iran-truce"/>
         <updated>2026-05-04T14:46:15.000Z</updated>
-        <summary type="html"><![CDATA[The US and Iran exchanged fire in the Persian Gulf in a flareup of violence on Monday that also drew in the United Arab Emirates, prompting calls for renewed strikes on Iranian targets and casting doubt on the fate of a four-week ceasefire.]]></summary>
+        <summary type="html"><![CDATA[The US and Iran exchanged fire in a flareup of violence on Monday that also drew in the United Arab Emirates, prompting calls for renewed strikes on Iranian targets and casting doubt on the fate of a four-week ceasefire.]]></summary>
         <author>
             <name>Courtney McBride, Anthony Capaccio, Catherine Lucey</name>
         </author>
@@ -3211,16 +3450,6 @@ Already next year its defence spending will be as much as that of France and Bri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FedEx, UPS Shares Sink on ‘Watershed’ Amazon Logistics Move]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/fedex-ups-shares-tumble-on-amazon-s-watershed-logistics-move</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/fedex-ups-shares-tumble-on-amazon-s-watershed-logistics-move"/>
-        <updated>2026-05-04T14:30:31.000Z</updated>
-        <summary type="html"><![CDATA[US transportation stocks plunged Monday after Amazon.com Inc. announced expanded logistics offerings that will turn it into a major competitor for parcel carriers and air freight companies, and also impact truckers and third-party brokers.]]></summary>
-        <author>
-            <name>Matthew Griffin, Cailley LaPara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ukrainian Drone Strikes Luxury Residential Block in Moscow]]></title>
         <id>WP-WSJ-0003550914</id>
         <link href="https://www.wsj.com/world/russia/ukrainian-drone-strikes-luxury-residential-block-in-moscow-f0f0f4b1"/>
@@ -3248,16 +3477,6 @@ Already next year its defence spending will be as much as that of France and Bri
         <summary type="html"><![CDATA[Celebrities having birthdays during the week of May 10-16 include “Saturday Night Live” star Kenan Thompson, “Bohemian Rhapsody” actor Rami Malek and “Nashville” actor Clare Bowen]]></summary>
         <author>
             <name>The Associated Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paranoia, Turmoil and Backlash: Inside the FDA Under Marty Makary]]></title>
-        <id>https://www.bloomberg.com/news/features/2026-05-04/rfk-jr-s-embattled-fda-chief-on-thin-ice-over-chaos-and-strife</id>
-        <link href="https://www.bloomberg.com/news/features/2026-05-04/rfk-jr-s-embattled-fda-chief-on-thin-ice-over-chaos-and-strife"/>
-        <updated>2026-05-04T14:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Insiders say one more high-profile misstep could put the commissioner’s job in jeopardy.]]></summary>
-        <author>
-            <name>Rachel Cohrs Zhang, Jessica Nix, Gerry Smith, Riley Griffin</name>
         </author>
     </entry>
     <entry>
@@ -3337,16 +3556,6 @@ The app, which allowed users to record a looping six seconds of video, boomed in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada Giving $1.1 Billion to Firms Hit by US Metal Tariffs]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/canada-rolls-out-1-1b-for-firms-hit-by-us-steel-tariff-change</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/canada-rolls-out-1-1b-for-firms-hit-by-us-steel-tariff-change"/>
-        <updated>2026-05-04T13:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Prime Minister Mark Carney’s government unveiled measures worth C$1.5 billion ($1.1 billion) to help Canadian firms hurt by the Trump administration’s changes to US tariffs on imports containing steel, aluminum and copper.]]></summary>
-        <author>
-            <name>Brian Platt, Mathieu Dion</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gun Makers Reach Cooperation Pact After Months of Tense Proxy Battle]]></title>
         <id>WP-WSJ-0003550772</id>
         <link href="https://www.wsj.com/finance/investing/gun-makers-reach-cooperation-pact-after-months-of-tense-proxy-battle-4557db08?mod=rss_markets_main"/>
@@ -3354,16 +3563,6 @@ The app, which allowed users to record a looping six seconds of video, boomed in
         <summary type="html"><![CDATA[Under the terms of their new agreement, Beretta may increase its investment in Sturm, Ruger to up to 25% of outstanding shares, including a tender offer at a minimum of $44.80 a share.]]></summary>
         <author>
             <name>Connor Hart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brockman Says Musk Vowed on Trial’s Eve to Make Him ‘Hated’]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/openai-s-brockman-to-testify-after-musk-s-text-about-settlement</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/openai-s-brockman-to-testify-after-musk-s-text-about-settlement"/>
-        <updated>2026-05-04T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI President Greg Brockman says Elon Musk messaged him just before they faced off in a trial to talk about settling their fight — and then vowed to ruin his reputation.]]></summary>
-        <author>
-            <name>Peter Blumberg, Madlin Mekelburg, Isaiah Poritz</name>
         </author>
     </entry>
     <entry>
@@ -3483,26 +3682,6 @@ The anti-renewables policy put forward by Nigel Farage’s populist party would 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China is building soft power as Trump burns bridges]]></title>
-        <id>248b5e50-d12b-4aa0-aa85-05bd9fa3ac82</id>
-        <link href="https://www.ft.com/content/248b5e50-d12b-4aa0-aa85-05bd9fa3ac82"/>
-        <updated>2026-05-04T12:51:04.000Z</updated>
-        <summary type="html"><![CDATA[After years of struggling to match the global popularity of the US, Japan and South Korea, Beijing’s image is improving]]></summary>
-        <author>
-            <name>World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU to water down anti-deforestation rules by exempting leather imports]]></title>
-        <id>fc0d452c-e17c-4e93-8b34-2c32748702c4</id>
-        <link href="https://www.ft.com/content/fc0d452c-e17c-4e93-8b34-2c32748702c4"/>
-        <updated>2026-05-04T12:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Move to soften impact on companies of flagship climate legislation is a setback for environmental groups]]></summary>
-        <author>
-            <name>World</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EU to water down anti-deforestation rules by exempting leather imports]]></title>
         <id>fc0d452c-e17c-4e93-8b34-2c32748702c4</id>
         <link href="https://www.ft.com/content/fc0d452c-e17c-4e93-8b34-2c32748702c4"/>
@@ -3529,7 +3708,7 @@ Iranian authorities have carried out executions on a near-daily basis in recent 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chevron CEO Warns of Tightening Global Oil Supplies]]></title>
+        <title type="html"><![CDATA[Nvidia’s Huang Says AI Chip Exports Should Be More Free]]></title>
         <id>https://www.bloomberg.com/news/live-blog/2026-05-04/milken-institute-global-conference-day-1</id>
         <link href="https://www.bloomberg.com/news/live-blog/2026-05-04/milken-institute-global-conference-day-1"/>
         <updated>2026-05-04T12:39:34.000Z</updated>
@@ -3538,21 +3717,11 @@ Iranian authorities have carried out executions on a near-daily basis in recent 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The many ways Trump wants to change D.C., from buildings to statues to parks]]></title>
-        <id>https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch</id>
-        <link href="https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch"/>
-        <updated>2026-05-04T12:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Many of the changes Trump wants to make to the White House and the city are facing legal challenges. Some are reversible, while others could reshape the nation's capital for generations to come.]]></summary>
-        <author>
-            <name>Rachel Treisman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US 30-Year Yield Hits 5% as Oil Surge Fuels Bets on a Fed Hike]]></title>
+        <title type="html"><![CDATA[US 30-Year Yield Hits 5% on Oil Surge, Higher Borrowing Outlook]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/treasuries-start-week-under-pressure-as-oil-prices-resume-climb</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/treasuries-start-week-under-pressure-as-oil-prices-resume-climb"/>
         <updated>2026-05-04T12:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Treasuries fell, sending 30-year yields to the highest since July, as traders boosted wagers that the Federal Reserve will have to reverse course and raise interest rates to curb inflation following a surge in oil prices.]]></summary>
+        <summary type="html"><![CDATA[Treasuries fell, sending 30-year yields to the highest since July, as a surge in oil prices stoked inflation fears while higher government borrowing estimates fueled concerns about increased supply.]]></summary>
         <author>
             <name>Ye Xie, Alice Gledhill</name>
         </author>
@@ -3588,13 +3757,13 @@ Iranian authorities have carried out executions on a near-daily basis in recent 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OCBC to Acquire HSBC Indonesia’s Retail, Wealth Assets]]></title>
+        <title type="html"><![CDATA[OCBC to Acquire HSBC’s Indonesia Retail, Wealth Assets]]></title>
         <id>https://www.bloomberg.com/news/articles/2026-05-04/ocbc-to-acquire-hsbc-indonesia-s-retail-wealth-assets</id>
         <link href="https://www.bloomberg.com/news/articles/2026-05-04/ocbc-to-acquire-hsbc-indonesia-s-retail-wealth-assets"/>
         <updated>2026-05-04T12:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Oversea-Chinese Banking Corp. will buy HSBC Holdings Plc’s retail and wealth assets in Indonesia, according to a statement from OCBC, deepening the Singapore-based bank’s presence in the neighboring country.]]></summary>
+        <summary type="html"><![CDATA[Oversea-Chinese Banking Corp. is buying HSBC Holdings Plc’s retail and wealth assets in Indonesia, deepening its presence in Southeast Asia’s largest economy.]]></summary>
         <author>
-            <name>Suvashree Ghosh</name>
+            <name>Suvashree Ghosh, Chanyaporn Chanjaroen, Elffie Chew</name>
         </author>
     </entry>
     <entry>
@@ -3605,6 +3774,19 @@ Iranian authorities have carried out executions on a near-daily basis in recent 
         <summary type="html"><![CDATA[Jury selection is expected to begin in the assault trial of former New England Patriots wide receiver Stefon Diggs]]></summary>
         <author>
             <name>Michael Casey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republicans split with Trump and back Haitians – to save their seats]]></title>
+        <id>https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump</id>
+        <link href="https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump"/>
+        <updated>2026-05-04T12:00:23.000Z</updated>
+        <summary type="html"><![CDATA[In Ohio, where Haitians have helped revive the economy, vulnerable Republicans are reluctant to toe the Trump line
+For months Carl Ruby, a pastor at a church in Springfield, Ohio, and a prominent supporter of the city’s estimated 10,000 Haitian immigrants, had been trying to contact his local congressman, Republican Mike Turner.
+Ruby had long hoped for an opportunity to explain in person the difficulties facing Haitians in Springfield and how that community had helped revive the struggling town.
+ Continue reading...]]></summary>
+        <author>
+            <name>Stephen Starrin Springfield, Ohio</name>
         </author>
     </entry>
     <entry>
@@ -3625,16 +3807,6 @@ Iranian authorities have carried out executions on a near-daily basis in recent 
         <summary type="html"><![CDATA[Wind speeds of up to 30 mph has helped the fire spread and forced aerial firefighting assets to be grounded.]]></summary>
         <author>
             <name>Oisin Mcilroy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not sure what to get Mom for Mother's Day? Get ideas from our listeners]]></title>
-        <id>https://www.npr.org/2026/05/04/nx-s1-5806058/mothers-day-gift-ideas</id>
-        <link href="https://www.npr.org/2026/05/04/nx-s1-5806058/mothers-day-gift-ideas"/>
-        <updated>2026-05-04T11:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Mother's Day is Sunday, May 10. If you're stumped on what to get the moms in your life, get some inspiration from our audience. They share the best gifts they've ever received from their loved ones.]]></summary>
-        <author>
-            <name>Malaka Gharib</name>
         </author>
     </entry>
     <entry>
@@ -3727,23 +3899,13 @@ Speaking before elections this week in which Labour is under pressure from the G
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Stocks Fall From Record High With Mideast Tensions in Focus]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/us-stock-futures-dip-on-reports-of-increasing-mideast-tension</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/us-stock-futures-dip-on-reports-of-increasing-mideast-tension"/>
-        <updated>2026-05-04T11:00:35.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 Index retreated from a historic high on Monday as investors monitored developments in the Middle East and geared up for another busy earnings stretch after solid results helped drive the gauge higher the past five weeks.]]></summary>
+        <title type="html"><![CDATA[Taiwan’s Lai to Speak After Defying China to Visit Africa]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-04/taiwan-s-lai-defied-china-to-reach-africa-now-he-must-get-home</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-04/taiwan-s-lai-defied-china-to-reach-africa-now-he-must-get-home"/>
+        <updated>2026-05-04T11:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan President Lai Ching-te will soon arrive home following a surprise trip to Africa in defiance of Beijing’s efforts to thwart his diplomatic outreach.]]></summary>
         <author>
-            <name>Felice Maranz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The perilously high stakes for the next UN leader]]></title>
-        <id>28a32c50-2ae7-452a-818d-822895b1ce61</id>
-        <link href="https://www.ft.com/content/28a32c50-2ae7-452a-818d-822895b1ce61"/>
-        <updated>2026-05-04T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[International body must sharpen its focus to stay relevant in a fractured world]]></summary>
-        <author>
-            <name>World</name>
+            <name>Yian Lee</name>
         </author>
     </entry>
     <entry>
@@ -4006,7 +4168,7 @@ All 15 secondary schools in the London borough of Sutton are using VR headsets m
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stock Market Today: Oil Rises, Dow Falls on Fears of Escalation in Hormuz]]></title>
+        <title type="html"><![CDATA[Stock Market News, May 4, 2026: Oil Rises, Dow Falls on Fears of Escalation in Hormuz]]></title>
         <id>lc-wsj-stock-market-today-dow-sp-500-nasdaq-05-04-2026</id>
         <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-04-2026?mod=rss_markets_main"/>
         <updated>2026-05-04T07:55:14.000Z</updated>
@@ -4210,16 +4372,6 @@ Nesrine Malik is a Guardian columnist
         <summary type="html"><![CDATA[Capping methane emissions would alleviate energy and climate crisis]]></summary>
         <author>
             <name>Markets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yen’s Brief Spike Leaves Traders on Alert for Intervention]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/yen-jumps-0-8-in-asia-trading-putting-investors-on-high-alert</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/yen-jumps-0-8-in-asia-trading-putting-investors-on-high-alert"/>
-        <updated>2026-05-04T04:39:24.000Z</updated>
-        <summary type="html"><![CDATA[A sudden surge in the yen ensured traders remained on edge over the potential for Japanese authorities to step back into the market after last week’s intervention to curb declines.]]></summary>
-        <author>
-            <name>Ruth Carson, Erica Yokoyama, Alice Gledhill, Carter Johnson</name>
         </author>
     </entry>
     <entry>
@@ -4564,13 +4716,13 @@ The comet – known as C/2025 R3 PanSTARRS – had been travelling through the n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[United Jet Hits Pole, Truck During Newark Landing Approach]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-04/united-flight-strikes-pole-on-highway-before-landing-at-newark</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-04/united-flight-strikes-pole-on-highway-before-landing-at-newark"/>
-        <updated>2026-05-04T01:25:28.000Z</updated>
-        <summary type="html"><![CDATA[A United Airlines Holdings Inc. plane grazed a vehicle and light post on an adjacent highway in its final approach to Newark Liberty International Airport on Sunday, the latest in a string of incidents that have put the spotlight on aviation safety in the US.]]></summary>
+        <title type="html"><![CDATA[Why Almost Everyone Loses—Except a Few Sharks—on Prediction Markets]]></title>
+        <id>WP-WSJ-0003534608</id>
+        <link href="https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11?mod=rss_markets_main"/>
+        <updated>2026-05-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A WSJ analysis shows a small number of accounts on Polymarket and Kalshi—often pros using data-driven algorithmic trading—take home most of the winnings.]]></summary>
         <author>
-            <name>Angus Whitley, Leen Al-Rashdan, Allyson Versprille</name>
+            <name>Caitlin Ostroff</name>
         </author>
     </entry>
     <entry>
@@ -4604,16 +4756,6 @@ The comet – known as C/2025 R3 PanSTARRS – had been travelling through the n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pete Hegseth is now bringing his wife to Pentagon meetings after he ousted top officials: report]]></title>
-        <id>b2969875</id>
-        <link href="https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-wife-pentagon-firings-b2969875.html"/>
-        <updated>2026-05-04T00:02:41.000Z</updated>
-        <summary type="html"><![CDATA[Secretary of Defense Pete Hegseth has faced criticism over the ouster of two dozen military leaders]]></summary>
-        <author>
-            <name>Alex Lang</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrated with the ubiquity of abortion pills during the second Trump administration, antiabortion advocates are promising cash and political firepower to politicians who oppose the drugs]]></title>
         <id>WP-WSJ-0003548515</id>
         <link href="https://www.wsj.com/politics/policy/trump-anti-abortion-movement-76393c1c"/>
@@ -4621,6 +4763,36 @@ The comet – known as C/2025 R3 PanSTARRS – had been travelling through the n
         <summary type="html"><![CDATA[The ubiquity of abortion pills during the second Trump administration has frustrated antiabortion advocates.]]></summary>
         <author>
             <name>Jennifer Calfas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hantavirus Outbreak on Cruise Ship Off Cape Verde Widens to 7 Cases, WHO Says]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-03/hantavirus-outbreak-on-cruise-ship-leaves-three-dead-who-says</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-03/hantavirus-outbreak-on-cruise-ship-leaves-three-dead-who-says"/>
+        <updated>2026-05-03T23:09:24.000Z</updated>
+        <summary type="html"><![CDATA[A hantavirus outbreak tied to a cruise ship off Cape Verde has grown to seven cases, including two confirmed infections, the World Health Organization said, with three deaths among those linked to the voyage.]]></summary>
+        <author>
+            <name>Jason Gale, Marthe Fourcade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop Makes $56 Billion Bid for eBay, Four Times Its Size]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says"/>
+        <updated>2026-05-03T23:09:05.000Z</updated>
+        <summary type="html"><![CDATA[GameStop Corp. is trying to buy eBay Inc. for about $56 billion in cash and stock, a bold attempt by Ryan Cohen to take over a storied e-commerce name several times larger.]]></summary>
+        <author>
+            <name>Cecilia D'Anastasio, Spencer Soper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop Makes $56 Billion Bid for eBay, Four Times Its Size]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says"/>
+        <updated>2026-05-03T23:09:05.000Z</updated>
+        <summary type="html"><![CDATA[GameStop Corp. is trying to buy eBay Inc. for about $56 billion in cash and stock, a bold attempt by Ryan Cohen to take over a storied e-commerce name several times larger.]]></summary>
+        <author>
+            <name>Cecilia D'Anastasio, Spencer Soper</name>
         </author>
     </entry>
     <entry>
@@ -4677,26 +4849,6 @@ The WHO said an investigation was under way but that at least one case of hantav
  Continue reading...]]></summary>
         <author>
             <name>Matty Edwards and agencies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gold Falls as Flare-Up of Hormuz Tensions Fuels Inflation Risks]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-03/gold-steady-with-focus-on-hormuz-reopening-iran-peace-talks</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-03/gold-steady-with-focus-on-hormuz-reopening-iran-peace-talks"/>
-        <updated>2026-05-03T22:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Gold fell as escalating Middle East tensions threaten a ceasefire between the US and Iran, keeping energy prices elevated and fueling inflation risks.]]></summary>
-        <author>
-            <name>Yvonne Yue Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stocks Fall, Oil Rises on Hormuz Tension Flare-Up: Markets Wrap]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-05-03/us-futures-gain-oil-falls-on-signs-of-iran-talks-markets-wrap</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-05-03/us-futures-gain-oil-falls-on-signs-of-iran-talks-markets-wrap"/>
-        <updated>2026-05-03T22:16:33.000Z</updated>
-        <summary type="html"><![CDATA[A rally in oil drove both stocks and bonds lower on concerns that an escalation of hostilities over the Strait of Hormuz will keep energy costs elevated, fueling global inflation risks.]]></summary>
-        <author>
-            <name>Rita Nazareth</name>
         </author>
     </entry>
     <entry>
@@ -5075,16 +5227,6 @@ The Reform-led Leicestershire county council has backed the release of the roden
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Francisco Partners in talks to buy payments company Moneris]]></title>
-        <id>bf55a925-e049-47c0-9983-9c0e5d16eaef</id>
-        <link href="https://www.ft.com/content/bf55a925-e049-47c0-9983-9c0e5d16eaef"/>
-        <updated>2026-05-03T10:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Royal Bank of Canada and Bank of Montreal are latest North American banks trying to offload a payments processor]]></summary>
-        <author>
-            <name>Markets</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI]]></title>
         <id>WP-WSJ-0003545650</id>
         <link href="https://www.wsj.com/finance/stocks/stock-indexes-are-contorting-themselves-to-include-spacex-and-openai-92136b13?mod=rss_markets_main"/>
@@ -5329,16 +5471,6 @@ The Utilita Arena Birmingham was evacuated and a 19-year-old man was taken into 
     <entry>
         <title type="html"><![CDATA[Russia Oil Exports Keep Flowing Despite Ukrainian Attacks]]></title>
         <id>WP-WSJ-0003545990</id>
-        <link href="https://www.wsj.com/world/russia/russia-oil-exports-ukraine-war-35fa6322?mod=rss_markets_main"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kyiv’s audacious campaign of strikes has had only a modest impact on the gusher of oil money that has shored up Moscow’s finances amid the Iran war.]]></summary>
-        <author>
-            <name>Alexander Osipovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Oil Exports Keep Flowing Despite Ukrainian Attacks]]></title>
-        <id>WP-WSJ-0003545990</id>
         <link href="https://www.wsj.com/world/russia/russia-oil-exports-ukraine-war-35fa6322"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kyiv’s audacious campaign of strikes has had only a modest impact on the gusher of oil money that has shored up Moscow’s finances amid the Iran war.]]></summary>
@@ -5367,19 +5499,6 @@ Oscar-nominated Richard E Grant, acclaimed actor Michael Sheen and The Last of U
  Continue reading...]]></summary>
         <author>
             <name>Sammy Gecsoyler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Living in survival mode’: Houston’s embattled immigrant community faces health, climate and petrochemical crises]]></title>
-        <id>https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather</id>
-        <link href="https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather"/>
-        <updated>2026-05-02T12:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Amid immigration raids, chemical spills, massive floods and costly healthcare, less-affluent residents of one of the most diverse US cities struggle to pull through
-Cándido Álvarez has made it his policy never to go to the doctor.
-“Not when I’m sick, not even when it’s serious,” he said. “I prefer not to go.”
- Continue reading...]]></summary>
-        <author>
-            <name>Alexandra Villarreal in Houston</name>
         </author>
     </entry>
     <entry>
@@ -5729,16 +5848,6 @@ In an executive order on Friday, the US president said he would impose sanctions
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S&P 500 Extends Longest Weekly Winning Streak Since Late 2024]]></title>
-        <id>WP-WSJ-0003546942</id>
-        <link href="https://www.wsj.com/finance/stocks/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-7cefd3ad?mod=rss_markets_main"/>
-        <updated>2026-05-01T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Strong tech earnings helped propel stocks higher on Friday.]]></summary>
-        <author>
-            <name>Jack Pitcher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump Tells Congress Iran Conflict Is Over, Sidestepping War Authorization]]></title>
         <id>WP-WSJ-0003546441</id>
         <link href="https://www.wsj.com/politics/national-security/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization-ed3e1144"/>
@@ -5878,19 +5987,6 @@ The polished brass bell bearing the name “Trump”, presented at Tuesday’s s
         <summary type="html"><![CDATA[The Institute for Supply Management’s purchasing managers’ index was 52.7 last month, in line with March, as price pressures rose in the second month of the Iran war.]]></summary>
         <author>
             <name>Jessica Coacci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?]]></title>
-        <id>https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels</id>
-        <link href="https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels"/>
-        <updated>2026-05-01T14:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future
-Looking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbean coast, it is never hard to spot evidence of the country’s thriving fossil fuel export trade. Oil tankers ride at anchor on the horizon and sometimes, locals say, lumps of coal wash up on the shore, blown off the collier ships that carry cargos from the nearby mines.
-It was here, on Wednesday evening, that the Colombian government took a bold step to shift its economy – and that of the rest of the world – away from dependence on coal, gas and oil and into a new era of clean energy. With the first ever conference on “transitioning away from fossil fuels”, the host joined nearly 60 countries determined to loosen of the grip of petrostates on the world’s future.
- Continue reading...]]></summary>
-        <author>
-            <name>Fiona Harvey and Jonathan Watts in Santa Marta</name>
         </author>
     </entry>
     <entry>
@@ -6066,16 +6162,6 @@ Also, Peter Walker, the Guardian’s senior political correspondent, discusses h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Republican leaders are pushing Southern states to redraw congressional maps ahead of the midterm elections after a Supreme Court decision sharply curbed the use of race in crafting electoral districts]]></title>
-        <id>WP-WSJ-0003544011</id>
-        <link href="https://www.wsj.com/politics/policy/republicans-rush-to-redraw-maps-after-supreme-court-race-ruling-3d498556"/>
-        <updated>2026-05-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The GOP is eager to gain from the high court’s decision curbing the use of race in the drawing of electoral maps.]]></summary>
-        <author>
-            <name>Louise Radnofsky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gen Z leads birdwatching boom as more Britons reach for the binoculars]]></title>
         <id>https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment</id>
         <link href="https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment"/>
@@ -6096,26 +6182,6 @@ Almost 750,000 gen Zers (16 to 29-year-olds) in Britain regularly enjoy watching
         <summary type="html"><![CDATA[Ariane de Rothschild’s association with the sex offender tests a truce between two banks that share the dynastic name.]]></summary>
         <author>
             <name>Margot Patrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rothschild Dynasty Survived Wars and Crises. Will the Epstein Files Tear It Apart?]]></title>
-        <id>WP-WSJ-0003534812</id>
-        <link href="https://www.wsj.com/finance/banking/the-rothschild-dynasty-survived-wars-and-crises-will-the-epstein-files-tear-it-apart-18735944?mod=rss_markets_main"/>
-        <updated>2026-04-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ariane de Rothschild’s association with the sex offender tests a truce between two banks that share the dynastic name.]]></summary>
-        <author>
-            <name>Margot Patrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The WSJ Dollar Index Falls 1.77% This Month to 94.99]]></title>
-        <id>WP-WSJ-0003540534</id>
-        <link href="https://www.wsj.com/finance/currencies/dollars-bullish-bias-against-yen-holding-above-160-technical-analysis-shows-f6bc46e7?mod=rss_markets_main"/>
-        <updated>2026-04-30T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The WSJ Dollar Index fell 0.9%, snapping a two-trading-day winning streak.]]></summary>
-        <author>
-            <name>WSJ.com: Markets</name>
         </author>
     </entry>
     <entry>
@@ -6610,16 +6676,6 @@ Now aid organisations are calling for a “humanitarian corridor” to be opened
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Apron’s Meal Maker Files Bankruptcy After Recalls]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-04-28/blue-apron-s-lone-meal-maker-files-bankruptcy-after-food-recalls</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-04-28/blue-apron-s-lone-meal-maker-files-bankruptcy-after-food-recalls"/>
-        <updated>2026-04-28T15:56:14.000Z</updated>
-        <summary type="html"><![CDATA[FreshRealm, the exclusive maker of meal kits for Blue Apron, filed for bankruptcy with plans to sell its assets and settle a food-recall dispute that helped pressure the company into seeking court protection from creditors.]]></summary>
-        <author>
-            <name>Steven Church</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shoppers are buying less where prices are rising fastest, showing that inflation isn’t being driven by demand but by companies passing on costs]]></title>
         <id>WP-WSJ-0003519564</id>
         <link href="https://www.wsj.com/economy/consumers/where-americans-are-drawing-the-line-on-price-increases-3e237258"/>
@@ -6683,16 +6739,6 @@ The group, mostly junior monks in training from temples across Sri Lanka, were a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When America and China Were Friendlier—and 10,000 Soldiers Built a Bike Track]]></title>
-        <id>WP-WSJ-0003530281</id>
-        <link href="https://www.wsj.com/world/china/when-america-and-china-were-friendlierand-10-000-soldiers-built-a-bike-track-d24da136"/>
-        <updated>2026-04-28T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Plus, a U.S. president’s unfavorable first impression of a lower-ranking Xi Jinping.]]></summary>
-        <author>
-            <name>Lingling Wei</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spain’s Unemployment Rate Rebounded Above 10% in First Quarter]]></title>
         <id>WP-WSJ-0003533087</id>
         <link href="https://www.wsj.com/economy/jobs/spains-unemployment-rate-rebounded-above-10-in-first-quarter-2a1f7f83"/>
@@ -6713,16 +6759,6 @@ The latest MacBook Pro comes in two screen sizes and a large range of chip and c
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs Consumer technology editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claudia Sheinbaum Is Learning the Price of Appeasing Trump]]></title>
-        <id>WP-WSJ-0003523417</id>
-        <link href="https://www.wsj.com/world/americas/claudia-sheinbaum-appeasing-trump-c1b445a6"/>
-        <updated>2026-04-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A murky CIA operation is the latest headache for the Mexican leader, who faces internal criticism from her leftist base.]]></summary>
-        <author>
-            <name>José de Córdoba</name>
         </author>
     </entry>
     <entry>
@@ -6992,16 +7028,6 @@ White House correspondents’ dinner shooting – latest updates
         <summary type="html"><![CDATA[The unemployment rate fell in the three months through February, though that is unlikely to be sustained as the war in the Middle East raises the pressure on firms to reduce hiring or cut jobs.]]></summary>
         <author>
             <name>Don Nico Forbes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wall Street Brings Sophisticated Quant Trading to the Masses]]></title>
-        <id>WP-WSJ-0003513686</id>
-        <link href="https://www.wsj.com/finance/investing/wall-street-brings-sophisticated-quant-trading-to-the-masses-235560c7?mod=rss_markets_main"/>
-        <updated>2026-04-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JPMorgan’s revenue from quantitative investment strategies for clients is up 30%, making it one of the bank’s fastest-growing businesses.]]></summary>
-        <author>
-            <name>Gregory Zuckerman</name>
         </author>
     </entry>
     <entry>
